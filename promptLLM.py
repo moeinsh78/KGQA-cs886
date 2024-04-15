@@ -13,7 +13,7 @@ def setup_LLM(prompt):
                 "content": 
 """You are a QA assistant skilled in answering questions about movies, but not from your own knowledge.
 In each prompt, you will be provided with some external information and a user query (question) about movies, directors, actors, and so on. 
-The information is retrieved from a Knowledge Graph (KG) representing a movie dataset and contains a number of KG edges in the form of (head, relation, tail). 
+The information is retrieved from a Knowledge Graph (KG) representing a movie dataset, but you don't need all of its information to answer the query. Just look for the information that helps you find the answer to the QUESTION.
 You will be asked to answer that query ONLY based on the external information you have been provided. Answers are typically named entities, such as the names of movies, actors, directors, and writers. 
 However, questions might have multiple answers. In such cases, form your final answer in the shape of an array. If you find "movie1", "movie2", and "movie3" as the answers to a query, your response should be: ["movie1", "movie2", "movie3"].
                     
@@ -39,10 +39,10 @@ Your output should ONLY containt the list. Even if it contained one answer, it s
 
 
 
-def ask_LLM(edge_list, question, expected_answer):
-    edge_list_str = ""
-    for edge in edge_list:
-        edge_list_str += (str(edge) + "\n")
+def ask_LLM(edge_desc_list, question, expected_answer):
+    edge_description_str = ""
+    for edge_desc in edge_desc_list:
+        edge_description_str += (edge_desc + "\n")
 
     prompt = """########
 # KNOWLEDGE GRAPH INFORMATION:
@@ -50,7 +50,7 @@ def ask_LLM(edge_list, question, expected_answer):
         
 # QUERY
 {}
-########""".format(edge_list_str, question)
+########""".format(edge_description_str, question)
     
     print("Prompt:\n", prompt)
     response = setup_LLM(prompt)
@@ -61,12 +61,12 @@ def performQA():
     line = "which person directed the movies starred by [John Krasinski]	Nancy Meyers|Sam Mendes|George Clooney|Ken Kwapis|Luke Greenfield"
     question = line[:line.find("\t")] + "?"
     expected_answers_list = (line[line.find("\t") + 1:]).split("|")
-    edge_list = traverse_node_neighborhood("John Krasinski", 2)
+    edge_desc_list = traverse_node_neighborhood("John Krasinski", 2)
 
     print("Question:", question)
     print("Expected Answers", expected_answers_list)
 
-    ask_LLM(edge_list, question, expected_answers_list)
+    ask_LLM(edge_desc_list, question, expected_answers_list)
 
 
 performQA()

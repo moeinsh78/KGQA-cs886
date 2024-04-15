@@ -39,7 +39,7 @@ def load_kg_edges_df():
 
 def get_bfs_edge_list(graph, source, depth, expand_ending_nodes = False):
     ending_node_relations = ["release_year", "in_language", "has_tags", "has_genre", "has_imdb_rating", "has_imdb_votes"]
-    bfs_edges_list = []
+    bfs_edge_description_list = []
     to_be_expanded = [source]
     visited = set()
     curr_depth = 0
@@ -58,15 +58,15 @@ def get_bfs_edge_list(graph, source, depth, expand_ending_nodes = False):
                     continue
                 if (expand_ending_nodes) or (graph.edges[pair[0], pair[1]]["label"] not in ending_node_relations):
                     to_be_expanded.append(pair[1])
-                bfs_edges_list.append(tuple((pair[0], graph.edges[pair[0], pair[1]]["label"], pair[1])))
+                bfs_edge_description_list.append(graph.edges[pair[0], pair[1]]["description"])
         
         curr_depth += 1
 
 
-    # for item in bfs_edges_list:
+    # for item in bfs_edge_description_list:
     #     print(item)
-    # print(len(bfs_edges_list))
-    return bfs_edges_list
+    # print(len(bfs_edge_description_list))
+    return bfs_edge_description_list
 
 
 def traverse_node_neighborhood(source_node, depth):
@@ -74,7 +74,7 @@ def traverse_node_neighborhood(source_node, depth):
     graph = nx.Graph()
     edges = load_kg_edges_df()
     for _, edge in edges.iterrows():
-        graph.add_edge(edge["head"], edge["tail"], label=edge["relation"])
+        graph.add_edge(edge['head'], edge['tail'], label=edge['relation'], description=edge["description"])
 
     top20_degree_nodes = sorted([tuple((node, graph.degree(node))) for node in graph.nodes], key=itemgetter(1), reverse=True)[:20]
     # print(top20_degree_nodes)
