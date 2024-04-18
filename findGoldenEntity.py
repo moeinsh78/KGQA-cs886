@@ -61,4 +61,4 @@ def get_most_similar_entity_ids(n = 3):
     return top_n_indices, labels
 
 
-get_most_similar_entity_ids(n = 10)
+get_most_similar_entity_ids(n = 3)

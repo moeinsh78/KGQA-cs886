@@ -53,15 +53,3 @@ embeddings = np.concatenate(embeddings, axis=0)
 
 np.save('./entity_embeddings.npy', embeddings)
 
-
-
-# text1 = "What does [Grégoire Colin] appear in"
-# encoded_input1 = tokenizer.batch_encode_plus(text1, return_tensors='pt')
-# output1 = model(**encoded_input1)
-
-
-# text2 = "What does [Grégoire Colin] appear in"
-# encoded_input2 = tokenizer(text2, return_tensors='pt')
-# output2 = model(**encoded_input2)
-
-# print(output2.last_hidden_state)
