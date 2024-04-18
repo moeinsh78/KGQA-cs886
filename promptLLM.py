@@ -14,22 +14,25 @@ def setup_LLM(prompt):
 """You are a QA assistant skilled in answering questions about movies.
 In each input, you will be provided with some external information (INFORMATION) and a user query (QUESTION) about movies. 
 The information is retrieved from a Knowledge Graph (KG) representing a movie dataset, but you don't need all of its information to answer the query. Just look for the information that helps you find the answer to the QUESTION.
-You will be asked to answer the query ONLY based on the external information you have been provided. The QUESTION might have multiple answers. In such cases, form your final answer in the shape of an array. For example, if you find "movie1", "movie2", and "movie3" as the answers to a query, your response should be: 
-# ["movie1", "movie2", "movie3"]
-# with no additional character in between.
+You will be asked to answer the query ONLY based on the external information you have been provided. The QUESTION might have multiple answers. In such cases, form your final answer in the shape of an array with no additional character in between. Don't include any quotation marks, and output all possible answers in a single array in one line. 
+
+For example, if you find Movie1, Movie2, and Movie3 as the answers to a query, your response should be: 
+[Movie1, Movie2, Movie3] 
                     
-Your input format will be like: 
-########
+The input will be bounded by two Hashtag blocks:
+######
 # INFORMATION:
 INFORMATION
 
 # QUERY
 QUESTION
-########
+######
 
-Your output should ONLY containt the list. Even if it contained one answer, it should be a list of one element. 
+
+Your response should ONLY contain the list. Even if there was a single answer, it should be a list of one element. 
 Make sure that you have retrieved answers solely based on the provided information from the knowledge graph since you might be asked to explain your reasoning. 
 Failure to do so could result in incorrect information being provided to users, which could lead to a loss of trust in our service.
+Remember to return just a list of answers and no extra character.
 """
             },
             {"role": "user", "content": prompt}
@@ -59,22 +62,27 @@ Failure to do so could result in incorrect information being provided to users, 
 # # Final result as a list
 
 
-def ask_LLM(edge_desc_list, question):
+def ask_LLM(attempt_number, edge_desc_list, question):
     edge_description_str = ""
     for edge_desc in edge_desc_list:
         edge_description_str += (edge_desc + "\n")
 
-    prompt = """
-########
+    prompt = """######
 # INFORMATION:
 {}
 
 # QUERY
 {}
-########""".format(edge_description_str, question)
+######""".format(edge_description_str, question)
     
-    print("Prompt:\n", prompt)
-    return setup_LLM(prompt)
+    response = setup_LLM(prompt)
+    log_file = open('results/1-hop-log.txt', 'a')
+    log_file.write("######## Question Number: {} ########\n".format(attempt_number + 1))
+    log_file.write("Prompt:\n{}\n".format(prompt))
+    log_file.write("Response:\n{}\n".format(response))
+    log_file.write("#####################################\n")
+    log_file.close()
+    return response
     
 
 # def perform_QA(edge_description_list, question, expected_answers_list):

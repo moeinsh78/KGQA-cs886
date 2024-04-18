@@ -1,0 +1,329 @@
+######## Question Number: 1 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Grégoire Colin' starred in 'Before the Rain'.
+
+
+# QUERY
+What does Grégoire Colin appear in?
+######
+Response:
+[Before the Rain]
+#####################################
+######## Question Number: 2 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Joe Thomas' starred in 'The Inbetweeners 2'.
+Actor 'Joe Thomas' starred in 'The Inbetweeners Movie'.
+
+
+# QUERY
+Joe Thomas appeared in which films?
+######
+Response:
+[The Inbetweeners 2, The Inbetweeners Movie]
+#####################################
+######## Question Number: 3 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Michelle Trachtenberg' starred in 'Ice Princess'.
+Actor 'Michelle Trachtenberg' starred in 'The Scribbler'.
+Actor 'Michelle Trachtenberg' starred in 'Harriet the Spy'.
+Actor 'Michelle Trachtenberg' starred in 'Black Christmas'.
+Actor 'Michelle Trachtenberg' starred in 'Inspector Gadget'.
+
+
+# QUERY
+which movies have made Michelle Trachtenberg star in?
+######
+Response:
+
+[Ice Princess, The Scribbler, Harriet the Spy, Black Christmas, Inspector Gadget]
+#####################################
+######## Question Number: 4 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Helen Mack' starred in 'Divorce'.
+Actor 'Helen Mack' starred in 'Kiss and Make-Up'.
+Actor 'Helen Mack' starred in 'The Son of Kong'.
+
+
+# QUERY
+ce qui fait Helen Mack star dans?
+######
+Response:
+['Divorce', 'Kiss and Make-Up', 'The Son of Kong']
+#####################################
+######## Question Number: 5 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Shahid Kapoor' starred in 'Chance Pe Dance'.
+Actor 'Shahid Kapoor' starred in 'Jab We Met'.
+Actor 'Shahid Kapoor' starred in 'Haider'.
+
+
+# QUERY
+The films have done Shahid Kapoor to act in?
+######
+Response:
+[Jab We Met, Chance Pe Dance, Haider]
+#####################################
+######## Question Number: 6 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Brendan Gleeson' starred in 'Harrison's Flowers'.
+Actor 'Brendan Gleeson' starred in 'The Grand Seduction'.
+Actor 'Brendan Gleeson' starred in 'The Smurfs 2'.
+Actor 'Brendan Gleeson' starred in 'The Raven'.
+Actor 'Brendan Gleeson' starred in 'The Tiger's Tail'.
+Actor 'Brendan Gleeson' starred in 'Six Shooter'.
+Actor 'Brendan Gleeson' starred in 'The General'.
+Actor 'Brendan Gleeson' starred in 'Into the Storm'.
+Actor 'Brendan Gleeson' starred in 'Lake Placid'.
+Actor 'Brendan Gleeson' starred in 'Stonehearst Asylum'.
+Actor 'Brendan Gleeson' starred in 'Calvary'.
+
+
+# QUERY
+Brendan Gleeson appeared in which films?
+######
+Response:
+['Harrison\'s Flowers', 'The Grand Seduction', 'The Smurfs 2', 'The Raven', 'The Tiger\'s Tail', 'Six Shooter', 'The General', 'Into the Storm', 'Lake Placid', 'Stonehearst Asylum', 'Calvary']
+#####################################
+######## Question Number: 7 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Paresh Rawal' starred in 'Table No. 21'.
+Actor 'Paresh Rawal' starred in 'Cheeni Kum'.
+
+
+# QUERY
+What the films make Paresh Rawal appear in?
+######
+Response:
+['Table No. 21', 'Cheeni Kum']
+#####################################
+######## Question Number: 8 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Doug Collins' starred in 'Michael Jordan to the Max'.
+
+
+# QUERY
+ce qui fait Doug Collins star dans?
+######
+Response:
+[Michael Jordan to the Max]
+#####################################
+######## Question Number: 9 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Brigitte Nielsen' starred in 'Cobra'.
+Actor 'Brigitte Nielsen' starred in 'Red Sonja'.
+
+
+# QUERY
+What the films do Brigitte Nielsen appear in?
+######
+Response:
+
+[Cobra, Red Sonja]
+#####################################
+######## Question Number: 10 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Mona McKinnon' starred in 'Plan 9 from Outer Space'.
+
+
+# QUERY
+Mona McKinnon appears in which film?
+######
+Response:
+
+[Plan 9 from Outer Space]
+#####################################
+######## Question Number: 11 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Christina Ricci' starred in 'Black Snake Moan'.
+Actor 'Christina Ricci' starred in 'Prozac Nation'.
+Actor 'Christina Ricci' starred in 'Pecker'.
+Actor 'Christina Ricci' starred in 'Pumpkin'.
+Actor 'Christina Ricci' starred in 'Monster'.
+Actor 'Christina Ricci' starred in 'Miranda'.
+Actor 'Christina Ricci' starred in 'Desert Blue'.
+Actor 'Christina Ricci' starred in 'Buffalo '66'.
+Actor 'Christina Ricci' starred in 'Bel Ami'.
+Actor 'Christina Ricci' starred in 'The Gathering'.
+Actor 'Christina Ricci' starred in 'That Darn Cat'.
+Actor 'Christina Ricci' starred in 'The Man Who Cried'.
+Actor 'Christina Ricci' starred in 'The Last of the High Kings'.
+Actor 'Christina Ricci' starred in 'All's Faire in Love'.
+Actor 'Christina Ricci' starred in 'After.Life'.
+Actor 'Christina Ricci' starred in 'Sleepy Hollow'.
+Actor 'Christina Ricci' starred in 'Around the Block'.
+Actor 'Christina Ricci' starred in 'The Opposite of Sex'.
+Actor 'Christina Ricci' starred in 'Now and Then'.
+
+
+# QUERY
+The films have made Christina Ricci take action in the?
+######
+Response:
+['Black Snake Moan', 'Prozac Nation', 'Pecker', 'Pumpkin', 'Monster', 'Miranda', 'Desert Blue', 'Buffalo 66', 'Bel Ami', 'The Gathering', 'That Darn Cat', 'The Man Who Cried', 'The Last of the High Kings', 'Alls Faire in Love', 'After.Life', 'Sleepy Hollow', 'Around the Block', 'The Opposite of Sex','Now and Then']
+#####################################
+######## Question Number: 12 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Brian Backer' starred in 'Moving Violations'.
+
+
+# QUERY
+Brian Backer appears in which movies?
+######
+Response:
+
+['Moving Violations']
+#####################################
+######## Question Number: 13 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'William Atherton' starred in 'The Citizen'.
+Actor 'William Atherton' starred in 'The Sugarland Express'.
+Actor 'William Atherton' starred in 'The Day of the Locust'.
+Actor 'William Atherton' starred in 'Die Hard 2'.
+Actor 'William Atherton' starred in 'Buried Alive'.
+
+
+# QUERY
+What movies do William Atherton appear in?
+######
+Response:
+
+[The Citizen, The Sugarland Express, The Day of the Locust, Die Hard 2, Buried Alive]
+#####################################
+######## Question Number: 14 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Jeremy Piven' starred in 'Keeping Up with the Steins'.
+Actor 'Jeremy Piven' starred in 'Just Write'.
+Actor 'Jeremy Piven' starred in 'So Undercover'.
+
+
+# QUERY
+What causes Jeremy Piven to act in?
+######
+Response:
+
+[Keeping Up with the Steins, Just Write, So Undercover]
+#####################################
+######## Question Number: 15 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Roger Bart' starred in 'Excision'.
+
+
+# QUERY
+what movies have made Roger Bart star in?
+######
+Response:
+[Excision]
+#####################################
+######## Question Number: 16 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Ruggero Raimondi' starred in 'Carmen'.
+
+
+# QUERY
+Ruggero Raimondi appears in what films?
+######
+Response:
+[Carmen]
+#####################################
+######## Question Number: 17 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Robert Strauss' starred in 'Attack'.
+Actor 'Robert Strauss' starred in 'Stalag 17'.
+
+
+# QUERY
+The films have made Robert Strauss act in?
+######
+Response:
+[Attack, Stalag 17]
+#####################################
+######## Question Number: 18 ########
+Prompt:
+######
+# INFORMATION:
+Movie 'The Killers' was directed by 'Aleksandr Gordon'.
+Movie 'The Killers' was written by 'Aleksandr Gordon'.
+Actor 'Aleksandr Gordon' starred in 'The Killers'.
+
+
+# QUERY
+The films have made Aleksandr Gordon take action in the?
+######
+Response:
+['The Killers']
+#####################################
+######## Question Number: 19 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Stephen Furst' starred in 'The Dream Team'.
+
+
+# QUERY
+What makes Stephen Furst action in?
+######
+Response:
+[The Dream Team]
+#####################################
+######## Question Number: 20 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Hiromi Nagasaku' starred in 'Doppelganger'.
+
+
+# QUERY
+ce qui fait Hiromi Nagasaku star dans?
+######
+Response:
+[Doppelganger]
+#####################################
+######## Question Number: 21 ########
+Prompt:
+######
+# INFORMATION:
+Actor 'Claude Akins' starred in 'Battle for the Planet of the Apes'.
+Actor 'Claude Akins' starred in 'A Man Called Sledge'.
+Actor 'Claude Akins' starred in 'Comanche Station'.
+
+
+# QUERY
+what the movies do Claude Akins appear in?
+######
+Response:
+[Battle for the Planet of the Apes, A Man Called Sledge, Comanche Station]
+#####################################
