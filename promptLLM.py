@@ -17,7 +17,7 @@ The information is retrieved from a Knowledge Graph (KG) representing a movie da
 You will be asked to answer the query ONLY based on the external information you have been provided. The QUESTION might have multiple answers. In such cases, form your final answer in the shape of an array with no additional character in between. Don't include any quotation marks, and output all possible answers in a single array in one line. 
 
 For example, if you find Movie1, Movie2, and Movie3 as the answers to a query, your response should be: 
-[Movie1, Movie2, Movie3] 
+["Movie1", "Movie2", "Movie3"] 
                     
 The input will be bounded by two Hashtag blocks:
 ######
