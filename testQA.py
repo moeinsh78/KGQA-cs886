@@ -4,6 +4,39 @@ from promptLLM import ask_LLM
 import ast
 from tqdm import tqdm
 
+def get_responses_list(line):
+    answers_list = [] 
+    start_char = 0
+    quotation_open = False
+    if len(line) == 0:
+        return [""]
+    # if line[0] != "\"":
+    #     print("Error 1: ", line)
+    # if line[len(line) - 1] != "\"":
+    #     print("Error 2: ", line)
+    
+    comma_count = 0
+    quotation_count = 0
+    for i in range(len(line)):
+        if line[i] == "\"":
+            quotation_count += 1
+            if not quotation_open:
+                quotation_open = True
+                start_char = i
+            else:
+                answers_list.append(line[start_char + 1: i])
+                quotation_open = False
+        
+        if line[i] == "," and not quotation_open:
+            comma_count += 1
+    
+    # if (2 * (comma_count + 1)) != quotation_count:
+    #     print("Error 3: ", quotation_count, comma_count, line)
+
+    return answers_list
+
+
+
 
 def evaluate_performance(output_file_address, expected_answers):
     total = 0
@@ -19,8 +52,7 @@ def evaluate_performance(output_file_address, expected_answers):
     for line in Lines:
         total += len(expected_answers[iterator])
         line_str = line[line.index("[") + 1:line.index("]")]
-        response_list = [item[item.find("\"") + 1 : item.rfind("\"")] for item in line_str.split(",")]
-
+        response_list = get_responses_list(line_str)
         print("List:\t\t", response_list)
         print("Expected:\t", expected_answers[iterator])
 
@@ -138,7 +170,7 @@ def check_named_entity():
 
 
 
-# one_hop_QA_file = open('dataset/MetaQA/MetaQA-3/1-hop/ntm/qa_test.txt', 'r')
+# one_hop_QA_file = open('dataset/MetaQA/MetaQA-3/2-hop/ntm/qa_test.txt', 'r')
 # Lines = one_hop_QA_file.readlines()
 # expected_answers = []
 # for line in Lines:
@@ -146,11 +178,11 @@ def check_named_entity():
 #     expected_answers_list = (line[line.find("\t") + 1:]).split("|")
 #     expected_answers.append(expected_answers_list)
 
-# evaluate_performance("results/1-hop-output.txt", expected_answers)
+# evaluate_performance("results/2-hop-output.txt", expected_answers)
 
 
 # run_1hop_tests(9001, 10000)
 
 # check_named_entity()
 
-run_2hop_tests(4001, 6001)
+run_2hop_tests(6001, 7001)

@@ -73,17 +73,21 @@ def build_knowledge_graph(edge_list_file):
     for _, edge in edges.iterrows():
         graph.add_edge(edge['head'], edge['tail'], label=edge['relation'], description=edge["description"])
 
-    # top20_degree_nodes = sorted([tuple((node, graph.degree(node))) for node in graph.nodes], key=itemgetter(1), reverse=True)[:20]
-    # print(top20_degree_nodes)
     return graph
 
 
-def visualize_graph(graph):
-    pos = nx.spring_layout(graph, seed=42, k=0.9)
-    labels = nx.get_edge_attributes(graph, 'label')
+def visualize_graph():
+    complete_graph = build_knowledge_graph(edge_list_file = "dataset/MetaQA/MetaQA-3/kb.txt")
+    sample_edge_list = get_bfs_edge_list(complete_graph, source="Jean Rochefort", depth=2)
+
+    sample_graph = nx.MultiGraph()
+    for edge in sample_edge_list:
+        sample_edge_list.add_edge(edge[0], edge[2], label=edge[1])
+    pos = nx.spring_layout(sample_graph, seed=42, k=0.9)
+    labels = nx.get_edge_attributes(sample_graph, 'label')
     plt.figure(figsize=(12, 10))
-    nx.draw(graph, pos, with_labels=True, font_size=10, node_size=700, node_color='lightblue', edge_color='gray', alpha=0.6)
-    nx.draw_networkx_edge_labels(graph, pos, edge_labels=labels, font_size=12, label_pos=0.3, verticalalignment='baseline')
+    nx.draw(sample_graph, pos, with_labels=True, font_size=10, node_size=700, node_color='lightblue', edge_color='gray', alpha=0.6)
+    nx.draw_networkx_edge_labels(sample_graph, pos, edge_labels=labels, font_size=12, label_pos=0.3, verticalalignment='baseline')
     plt.title('Knowledge Graph')
     plt.show(block=True)
 
