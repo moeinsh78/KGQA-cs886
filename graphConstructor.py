@@ -37,7 +37,7 @@ def load_kg_edges_df(edge_list_file):
     return kg_relations
 
 
-def get_bfs_edge_list(graph, source, depth, expand_ending_nodes = False):
+def get_bfs_edge_list(graph, source, depth, expand_ending_nodes = False, give_edge = False):
     ending_node_relations = ["release_year", "in_language", "has_tags", "has_genre", "has_imdb_rating", "has_imdb_votes"]
     bfs_edge_description_list = []
     to_be_expanded = [source]
@@ -58,7 +58,11 @@ def get_bfs_edge_list(graph, source, depth, expand_ending_nodes = False):
                 if (expand_ending_nodes) or (graph.edges[pair[0], pair[1], 0]["label"] not in ending_node_relations):
                     to_be_expanded.append(pair[1])
                 for i in range(graph.number_of_edges(pair[0], pair[1])):
-                    bfs_edge_description_list.append(graph.edges[pair[0], pair[1], i]["description"])
+                    if give_edge:
+                        edge_info = [pair[0], graph.edges[pair[0], pair[1], i]["label"], pair[1]]
+                        bfs_edge_description_list.append(edge_info)
+                    else: 
+                        bfs_edge_description_list.append(graph.edges[pair[0], pair[1], i]["description"])
         
         curr_depth += 1
 
@@ -76,18 +80,24 @@ def build_knowledge_graph(edge_list_file):
     return graph
 
 
-def visualize_graph():
+def visualize_graph(source, depth):
     complete_graph = build_knowledge_graph(edge_list_file = "dataset/MetaQA/MetaQA-3/kb.txt")
-    sample_edge_list = get_bfs_edge_list(complete_graph, source="Jean Rochefort", depth=2)
+    sample_edge_list = get_bfs_edge_list(complete_graph, source, depth, give_edge=True)
 
     sample_graph = nx.MultiGraph()
     for edge in sample_edge_list:
-        sample_edge_list.add_edge(edge[0], edge[2], label=edge[1])
-    pos = nx.spring_layout(sample_graph, seed=42, k=0.9)
+        head = edge[0]
+        tail = edge[2]
+        if (len(head) > 15):
+            head = head[:15] + ".."
+        if (len(tail) > 15):
+            tail = tail[:15] + ".."
+        sample_graph.add_edge(head, tail, label=edge[1])
+    pos = nx.spring_layout(sample_graph, seed=55, k=0.9)
     labels = nx.get_edge_attributes(sample_graph, 'label')
     plt.figure(figsize=(12, 10))
-    nx.draw(sample_graph, pos, with_labels=True, font_size=10, node_size=700, node_color='lightblue', edge_color='gray', alpha=0.6)
-    nx.draw_networkx_edge_labels(sample_graph, pos, edge_labels=labels, font_size=12, label_pos=0.3, verticalalignment='baseline')
+    nx.draw(sample_graph, pos, with_labels=True, font_size=12, node_size=5000, node_color='green', edge_color='gray', alpha=0.6)
+    nx.draw_networkx_edge_labels(sample_graph, pos, edge_labels=labels, font_size=8, label_pos=0.5, verticalalignment='baseline')
     plt.title('Knowledge Graph')
     plt.show(block=True)
 
@@ -97,4 +107,5 @@ def visualize_graph():
 # edge_list = get_bfs_edge_list(graph, source = "Grown Ups 2", depth = 1, expand_ending_nodes = False)
 # print(edge_list)
 
-load_kg_edges_df("./dataset/MetaQA/MetaQA-3/kb.txt")
+# load_kg_edges_df("./dataset/MetaQA/MetaQA-3/kb.txt")
+visualize_graph(source="Jean Rochefort", depth=2)
