@@ -20,7 +20,6 @@ def find_query_embedding(query):
 
 def load_entity_embeddings():
     entity_embeddings = np.load("entity_embeddings.npy")
-    print("Entity Embeddings Shape:", entity_embeddings.shape)
     return entity_embeddings
 
 
@@ -33,32 +32,29 @@ def load_entities_dict():
 
 
 
-def get_most_similar_entity_ids(n = 3):
+def get_most_similar_entity_ids(query, n = 3):
     entities_dict, entities_dict_reverse = load_entities_dict()
 
-    query_embedding = find_query_embedding(query = "[Mona McKinnon] appears in which film")
+    query_embedding = find_query_embedding(query)
     entity_embeddings = load_entity_embeddings()
     
     # Calculate cosine similarities between the query vector and the dataset
     similarities = cosine_similarity(entity_embeddings, [query_embedding]).flatten()
 
-    print(similarities)
-    print(type(similarities))
+    # print(similarities)
+    # print(type(similarities))
     
-    # Find the most similar vector(s)
-    # top_n_indices = np.argpartition(similarities, -n)[-n:]
     top_n_indices = np.argsort(similarities)[-n:]
     top_n_indices
-    print("Most Similar Indices:", top_n_indices)
-    print("Top Scores:", similarities[top_n_indices])
-    print("Most Similar Labels:")
+    # print("Most Similar Indices:", top_n_indices)
+    # print("Top Scores:", similarities[top_n_indices])
+    # print("Most Similar Labels:")
     top_n_indices[:] = top_n_indices[::-1]
     labels = []
     for ind in top_n_indices:
         labels.append(entities_dict[ind])
 
-    print(labels)    
     return top_n_indices, labels
 
 
-get_most_similar_entity_ids(n = 3)
+get_most_similar_entity_ids("[Mona McKinnon] appears in which film", n = 3)

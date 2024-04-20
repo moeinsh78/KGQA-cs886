@@ -1,4 +1,5 @@
 from graphConstructor import build_knowledge_graph, get_bfs_edge_list
+from findGoldenEntity import get_most_similar_entity_ids
 from promptLLM import ask_LLM
 import ast
 from tqdm import tqdm
@@ -57,7 +58,7 @@ def evaluate_performance(output_file_address, expected_answers):
     
         
 
-def run1HopTests(start, end):
+def run_1hop_tests(start, end):
     graph = build_knowledge_graph(edge_list_file = "dataset/MetaQA/MetaQA-3/kb.txt")
     
     one_hop_QA_file = open('dataset/MetaQA/MetaQA-3/1-hop/ntm/qa_test.txt', 'r')
@@ -89,6 +90,54 @@ def run1HopTests(start, end):
 
 
 
+def run_2hop_tests(start, end):
+    graph = build_knowledge_graph(edge_list_file = "dataset/MetaQA/MetaQA-3/kb.txt")
+    
+    one_hop_QA_file = open('dataset/MetaQA/MetaQA-3/2-hop/ntm/qa_test.txt', 'r')
+    Lines = one_hop_QA_file.readlines()
+    
+    expected_answers = []
+    end = min(end, len(Lines))
+
+    for i in tqdm(range(start, end)):
+        line = Lines[i]
+        question = line[:line.find("\t")] + "?"
+
+        expected_answers_list = (line[line.find("\t") + 1:]).split("|")
+        expected_answers.append(expected_answers_list)
+        named_entity = question[question.find("[") + 1: question.find("]")]
+        edge_desc_list = get_bfs_edge_list(graph, named_entity, depth = 2, expand_ending_nodes = False)
+
+        question = question.replace("[", "").replace("]", "")
+        LLM_response = ask_LLM(i, edge_desc_list, question)
+        
+        one_hop_output_file = open('results/2-hop-output.txt', 'a')
+        one_hop_output_file.write(LLM_response + "\n")
+        one_hop_output_file.close()
+    
+    # evaluate_performance("results/1-hop-output.txt", expected_answers)
+
+
+def check_named_entity():    
+    one_hop_QA_file = open('dataset/MetaQA/MetaQA-3/1-hop/ntm/qa_test.txt', 'r')
+    Lines = one_hop_QA_file.readlines()
+    
+    wrong_count = 0
+    for i in tqdm(range(len(Lines))):
+        line = Lines[i]
+        question = line[:line.find("\t")] + "?"
+        named_entity = question[question.find("[") + 1: question.find("]")]
+        _, labels = get_most_similar_entity_ids(query = question, n = 1)
+        
+        if labels[0] != named_entity:
+            wrong_count += 1
+            print("############\nNamed Entity: {}".format(named_entity))
+            print("\nMost Similar: {}\n############".format(labels[0]))
+    
+    print("Wrong count:", wrong_count)
+
+
+
 # one_hop_QA_file = open('dataset/MetaQA/MetaQA-3/1-hop/ntm/qa_test.txt', 'r')
 # Lines = one_hop_QA_file.readlines()
 # expected_answers = []
@@ -98,4 +147,10 @@ def run1HopTests(start, end):
 #     expected_answers.append(expected_answers_list)
 
 # evaluate_performance("results/1-hop-output.txt", expected_answers)
-run1HopTests(9001, 10000)
+
+
+# run_1hop_tests(9001, 10000)
+
+# check_named_entity()
+
+run_2hop_tests(4001, 6001)

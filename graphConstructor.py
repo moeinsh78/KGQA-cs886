@@ -32,7 +32,7 @@ def load_kg_edges_df(edge_list_file):
     kg_relations['description'] = kg_relations.apply(lambda d: get_description(d["head"], d["relation"], d["tail"]), axis = 1)
 
     # # Relation distribution in the knowledge graph
-    # print(kg_relations)
+    # print(kg_relations.groupby(["relation"]).size())
     
     return kg_relations
 
@@ -93,3 +93,4 @@ def visualize_graph(graph):
 # edge_list = get_bfs_edge_list(graph, source = "Grown Ups 2", depth = 1, expand_ending_nodes = False)
 # print(edge_list)
 
+load_kg_edges_df("./dataset/MetaQA/MetaQA-3/kb.txt")

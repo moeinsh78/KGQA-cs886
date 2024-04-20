@@ -76,7 +76,7 @@ def ask_LLM(attempt_number, edge_desc_list, question):
 ######""".format(edge_description_str, question)
     
     response = setup_LLM(prompt)
-    log_file = open('results/1-hop-log.txt', 'a')
+    log_file = open('results/2-hop-log.txt', 'a')
     log_file.write("######## Question Number: {} ########\n".format(attempt_number + 1))
     log_file.write("Prompt:\n{}\n".format(prompt))
     log_file.write("Response:\n{}\n".format(response))

@@ -2,3 +2,4 @@
 /entity_embeddings.npy
 /test.txt
 /results/1-hop-log.txt
+/results/2-hop-log.txt
