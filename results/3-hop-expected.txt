@@ -1,0 +1,400 @@
+1952|1944|1929|1986|1987|1949|1968|1964|1943|1940|1941|1946|1961|1962|1945|2014|2012|1933|1932|1956|1937|1936|1935|1934|1939|1938|1959|1958|1955|1978|1972|1942|1965|1951|2008|1950
+1976|1997|1946|1988|1989|1986|1987|1984|1985|1982|1969|1980|1981|1964|1966|1967|1960|1961|1962|1963|2011|2010|2012|1978|1955|1954|1956|1959|1958|1991|1990|1993|1992|1995|1994|1979|1996|1977|1998|1975|1974|1973|1972|1971|1970|2002|2003|2000|2001|2006|2007|2005|2008|2009
+Drama|Horror|Comedy
+Drama|Sport
+1976|1937|1954
+Jonathan Raymond|Floria Sigismondi|Sue Monk Kidd|Cherie Currie|Garon Tsuchiya|Julia Dahl|Sean Durkin|Josh Friedman|Émile Zola|Allison Jacobs|Lisa Davidowitz|Brian Helgeland|Ol Parker|Jenny Downham|Mark Protosevich|Kelly Reichardt|Deborah Kampmeier|Josh Radnor|Richard Glatzer|Jessie Nelson|David Koepp|Kristine Johnson|Mo Ogrodnik|Nobuaki Minegishi|Charlie Stratton
+1991|1987|1993|1985|1982|1994|1997|1999|1976|1974|1973|1984|1977|2000|2004|2005|1995|2008|2011|2014|1926
+English
+1975|1969|1977|1965|1966|1967|1960|1971|1946|1954|1957|1956|1962|1953|1958|1950
+French|English
+1953|1946|1934|1947|1920|1924|1926|1927|1928|1929|1963|1948|1949|1964|1965|1940|1941|1960|1961|1962|1945|1933|1931|1956|1937|1950|1935|1952|1939|1938|1959|1917|1955|1993|1999|1957|1930|1966|1936
+Baran bo Odar|George Tabori|Leck Fischer|Steve McQueen|Ingmar Bergman|Stephen Fry|Ulla Isaksson|Akira Kurosawa|Richard Brooks|Jan Costin Wagner|Kenneth Branagh
+German|Korean|French|English
+Drama|Comedy|Crime
+1986|1985|1982|1983|1980|1988|2014|2011|2010|1990|1993|1992|1995|1977|1997|1999|1976|1973|1971|2002|2003|2000|2006|2004|2008|2009
+English
+Curtis Hanson|John Badham|Erick Zonca|Bud Yorkin|Jerry Jameson|Marc Rocco|Eugene Corr|Holly Goldberg Sloan|Henry Winkler|Herbert Ross|Harvey Miller|Fielder Cook|Jonathan Demme|Peter Faiman|Henry King|Arthur Hiller|Sergio Leone|Jocelyn Moorhouse|Fred Zinnemann|Ron Howard|Hugh Wilson|Alan J. Pakula|Dalton Trumbo|Robert Ellis Miller|Sam Peckinpah|Jack Clayton|Jerry Schatzberg|John Sturges|Anatole Litvak|Blake Edwards|Karel Reisz|Andrew Gallerani|Roger Corman|Stephen Sommers
+Fantasy|Comedy|Animation
+Deborah Kaplan|Tom Savage|Jonathan Parker|Robert Rodriguez|Trey Callaway|Catherine DiNapoli|Lois Duncan|Gary Preisler|Sam Wolfson|Stephen Mazur|Paul Guay|Allison Jacobs|Mo Ogrodnik|Kevin Williamson|Bryan Fogel|Julia Dahl|Lisa Davidowitz|Jim Davis|Harry Elfont|Robert Dunn|John Hay
+Jerusha Hess|James Ashmore Creelman|Lorenzo Semple Jr.|Albert Dupontel|Mark Obmascik|Edgar Wallace|Skip Hollandsworth|Ben Stiller|Ruth Rose|Merian C. Cooper|Peter Jackson|Zeki Demirkubuz|Michel Gondry|Etan Cohen|Nancy Meyers|Howard Franklin|Justin Theroux|Mike White|Harold Ramis|Jared Hess|Jonathan Swift|Richard Linklater
+Jack Conway|Lewis Teague|Christopher Cain|Rick Rosenthal|Walter Hill|Harald Zwart|Tamra Davis|Francis Ford Coppola|John G. Avildsen|Arthur Hiller|Jonathan Lynn
+Albert Hackett|Adam Kennedy|Bo Goldman|Lawrence Kasdan|Woody Allen|Frances Goodrich|Richard Brooks|John Katzenbach|Marshall Brickman|David Ambrose|Clive Cussler|Thomas Bezucha|Mark Andrus|George Clayton Johnson|Tama Janowitz|Scott McPherson|Judith Rossner|Warren Beatty|Justin Zackham|Sue Miller|Leon Piedmont|Ronald F. Maxwell|Robert Kaufman|Karine Sudan|David Zelag Goodman|Trevor Griffiths|Olivia Goldsmith|Michael Shaara|Nancy Meyers|William F. Nolan|Eric Hughes|Allan Scott|Edward Streeter|Jeffrey Ellis|Christopher Hawthorne|John Byrum|Garry Marshall
+Claire Bloom|Jack Nicholson|Victoria Foyt|Tuesday Weld|Nigel Terry|Shelley Winters|Victoria Tennant|Viveca Lindfors|Vanessa Redgrave|Tanna Frederick|Stephen Dillane|Andrea Marcovicci|Phil Proctor|Orson Welles|Jaclyn Smith
+Action|Horror|Thriller
+Jack Gold|Don Sharp|Carol Reed
+Drama|Musical
+1935|1956|1989|1948|1949|1983|1942|1943|1940|1941|1946|1947|1944|1945|1955|1954|1931|1985|1951|1950|1953|1952|1939|1938|1959|1933|1992|1995|1978|1976|1975|1957|2003|1930|2005|1964|1937|1932|1936
+Kevin Connor|Walter Lang|William F. Claxton|Henry Koster
+Francesco Rosi|Carlos Saura|Ernst Lubitsch
+Drew Barrymore|Kristen Bell|Hiromi Nagasaku|Christina Milian|Tadanobu Asano|Ian Somerhalder|Roxanne Hart|Cliff De Young|Matthew Lawrence|Tatsuya Fuji|Joseph Lawrence
+Romance|Horror|War|Drama|Fantasy|Music|Adventure|Action|Comedy|Musical|Thriller
+1962|1989|1986|1987|1982|1969|1981|1964|1965|1966|1967|1961|1988|1963|2012|1968|1959|1983|1990|1993|1992|1995|1979|1996|1999|1976|1975|1974|1972|1971|1970|2003|2000|1998
+1989|1960|1961|1962|1963|1987|1948|1949|1968|1983|1980|1981|1964|1965|1966|1967|1946|1947|1944|1945|1996|2011|2013|2012|1954|1957|1956|1951|1950|1953|1952|1939|1938|1959|1958|1969|1991|1990|1995|1978|1977|1976|1974|1973|1970|2002|1942|2000|1930|2006|1943|1936
+Mystery|Crime|Drama|Western|Comedy|War|Thriller
+1986|1987|1984|1985|1983|1989|2012|1948|1932|1937|1950|1991|1990|1993|1992|1995|1994|1999|1998|2001|2006|2004|2005
+2008|2010|2004|1981
+Brian Selznick|Sabi H. Shabtai|Anthony Stacchi|Anne Nelson|Nicholas Meyer|Bob Swaim|Ronald Shusett|Steven Zaillian|David Auburn|Peter Weir|Shawn Lawrence Otto|Jonathan Levine|Barry Unsworth|Stephen Mazur|Dian Fossey|Rick Moody|Thomas Keneally|Rodrigo Cortés|Kevin Wade|Paul Guay|Cédric Kahn|John Logan|Vadim Perelman|Alan Snow|Kari Skogland|Harold Ramis|Philip Roth|Martin McGartland|Brad Anderson|John Briley|Bernardo Bertolucci|Sol Yurick|James Toback|Jane Hamilton|Dean Jennings|Georges Simenon|George Plimpton|James Cameron|Gary Ross|James Dearden|Dan Aykroyd|Jim Simpson|Louis Sachar|Harold Pinter|Andre Dubus III|Steve Tesich|Robert Dunn|Marivaux|Moe Jelline|Robert Gordon|Krishna Rao|Russell Hoban|Joseph L. Mankiewicz|Artur London|Douglas McGrath|David Howard|Mark Bomback|Dan Gordon|Lewis Carroll|Richard Herley|Paul Theroux|Dan O'Bannon|Chandran Rutnam|Linda Woolverton|Clare Peploe
+1960|1957|1956|1953|1959|1958
+1991|1986|1969|1979|1996|1977|1981|1988|1983|2004|2014|1958|2012
+1947|1948|1985|1980|1965|1960|1961|1962|1963|1955|1957|1949|1950|1952|1958|1991|1990|1993|1996|1999|1975|1970|1943
+Romance|Drama|Comedy
+Drama|Mystery|Comedy|War
+German|Polish|Turkish
+Swedish
+2011|2013|2012
+Drama
+Mystery|Sport|Horror|Crime|Drama|Music|Western|Action|Comedy|Documentary|War|Thriller|History
+Joel Coen|Cameron Crowe|James Ellroy|Ted Berman|Eric Heisserer|John Dwyer|Nicholas T. Proferes|Ron Shelton|Daniel Gerson|Paul Gallico|Robert Schooley|John Carpenter|John Katzenbach|Chad Kultgen|Mateo Gil|Raffaella Delle Donne|Gregory Widen|Mark McCorkle|Hue Rhodes|Ethan Coen|Bob Gale|Paul Sado|Anthony Silverston|Dean Devlin|Paul Hernandez|Nick Castle|John Francis Daley|David Webb Peoples|Andrew Stanton|Leon Piedmont|Steve Buscemi|Don Handfield|Kevin Jarre|Quentin Tarantino|Alejandro Amenábar|Robert Towne|Daniel P. Mannix|Jeff Pidgeon|Jonathan Sobol|Tom DiCillo|Bill Lancaster|Jill Culton|Thomas McCarthy|Alexandre Rockwell|Rob Schneider|Pete Docter|Robert Rodriguez|Thom Eberhardt|Robert Zemeckis|Rich Wilkes|Roland Emmerich|Tyler Mitchell|Jonathan Mostow|Ralph Eggleston|Theo van Gogh|Dan Scanlon
+Joseph L. Mankiewicz|Andrew Davis|Terence Young
+Marty Feldman|Graham Chapman|Michael Palin|Charles Crichton|John Cleese|Tristram Powell
+1934|1923|1927|1929|1949|1942|1947|1944|1963|1958|1919|1932|1956|1936|1935|1952|1939|1938|1915|1914|1996|2003|1930
+English
+1963|1960|1916
+Michael Noonan|David Haig|Joe Hill|Steve Kloves|Marc Rosenberg
+1962|1989|1977|1986|1987|1984|1985|1968|1969|1981|1965|1966|1967|1960|1988|1963|2011|1955|1959|1993|1994|1979|1978|1999|1975|1973|1971|1970|2003|2007|2005|2008|2009
+James Franco|Bill Bixby|Kirsten Dunst|Jack Colvin|Jeff Bridges|Tobey Maguire|Terrence Howard|Willem Dafoe|Gwyneth Paltrow|Reb Brown
+Sport|Horror|Crime|Drama|Fantasy|Animation|Music|Adventure|Action|Comedy|Thriller|Western
+1934|1949|1983|1932|1972|1961|1966|1941|1946|1931|1944|1947|1954|2000|1964|1952|1938|1959|1958
+German|Spanish|English
+1994|1988
+Mystery|Biography|Family|Horror|Crime|Drama|Fantasy|Music|Western|Action|Comedy|War|Thriller|Adventure
+Shelagh Delaney|David Lean|Ronald Neame|Nick Murphy|Kay Walsh|Richard Woodley|Charles Dickens|Mark Rosenthal|Joseph D. Pistone|Bram Stoker|David Nicholls|Elizabeth von Arnim|Steve Kloves|Gabriel García Márquez|Lawrence Konner|Paul Attanasio|Beryl Bainbridge|Richard Curtis|Jim Sheridan|Cecil McGivern
+1949|1964|1967|1970|1951|1958|1974
+Horror|Drama|Music|Comedy|Musical|Thriller
+Donald Crisp|June Lockhart|Peter Lawford|Roddy McDowall
+Lasse Hallström|Julian Fellowes|Michael Hoffman|Todd Field|Christopher Menaul|Peter Weir|Nigel Cole|Sacha Gervasi|Roger Michell|Peter Hyams|Gil Junger|Michael Powell|Tony Gilroy|Gore Verbinski|Bryan Singer|Kevin Bacon|Jason Winer|Max Lang|Steve Gordon|Adrian Shergold|John Boorman|Eli Cohen|Charles Sturridge|Gillian Armstrong|David Mamet|Stephen Frears|Taylor Hackford|Kevin Macdonald|Sidney Lumet|Paul Schrader|Terry George|Malcolm Venville|Lee Daniels|John Madden|Scott Derrickson|Conor McPherson|John Boulting|Jakob Schuh|Kevin Williamson|Guy Ritchie|Peter Webber
+1990|1993|1985|1995|1996|1947|1988|1989|2002|1992|2006|2012
+Ermanno Olmi|Joseph C. Muscat|Abbas Kiarostami
+David Hewlett|Andrew Miller|Vincenzo Natali|Brian King
+Donald Sutherland|Shelley Winters|Kris Kristofferson|Chazz Palminteri|Woody Allen|Nick Nolte|Richard Dreyfuss|Cleavant Derricks|Marsha Mason|Gena Rowlands|Bette Midler|Ellen Greene|Paul Mazursky|Alejandro Rey|Susan Sarandon|Meg Mazursky|Art Carney|John Cassavetes|Ryan O'Neal|Ellen Burstyn|Lenny Baker|Robin Williams|Cher|Lois Smith|George Segal|Little Richard|Susan Anspach
+French
+English
+1960|1986|1982|1983|1980|1981|1964|1965|1966|1946|1988|1989|2013|1957|1968|1993|1992|1997|1978|1977|1976|1975|1974|1973|1972|1971|1999|2000|2006|2007|2004
+1927|1986|1984|1985|1968|1983|1980|1965|1988|1989|2012|1990|1993|1992|1995|1994|1997|1996|1999|1998|1978|2002|2003|2000|2006|2007|2004|2005
+Romance|Horror|Crime|Drama|Comedy|Thriller
+Anthony Peckham|Jonathan Raymond|Floria Sigismondi|Sue Monk Kidd|Cherie Currie|Nora Roberts|Sam Harper|Eleanor Perry|Andrew Klavan|Josh Friedman|Susanna Kaysen|Theodore Isaac Rubin|James Mangold|Amy Heckerling|Deborah Kampmeier|Brian Helgeland|Tom Savage|Ol Parker|Catherine DiNapoli|Bernard Slade|Ken Selden|Jenny Downham|Scott Silver|Kelly Reichardt|Naomi Foner|Joshua Michael Stern|Robert Rodriguez|Sean McConville|Creighton Vero|Richard Glatzer|Patrick Smith Kelly|Jessie Nelson|David Koepp|Kristine Johnson|Jonathan Parker
+Action|Comedy
+David Cross|Cameron Richardson|Jason Lee|Alex D. Linz|Hank Azaria|Russell Brand|James Marsden
+1986|1992|1995|1983|1979|1981|1972|1920|2001|2006|1936|2004|2015|2009
+Nora Swinburne|Jean Gabin|Jean Marais|Charles Blavette|Anna Magnani|Joan Bennett|Esmond Knight|Odoardo Spadaro|Paulette Dubost|Celia Montalván|María Félix|Charles Bickford|Arthur Shields|Nora Gregor|Édouard Delmont|Mila Parély|Sissy Spacek|Ingrid Bergman|Mel Gibson|Robert Ryan
+Drama|Action|Comedy|Sport|War
+Alexander Mackendrick|Henry Cornelius|Stanley Kramer|Anthony Mann|Ethan Coen
+Ben Stiller|Elia Kazan|Don Taylor|Robert Stevenson|Gottfried Reinhardt|Lewis Milestone|Raoul Walsh|Felix E. Feist|John Barry|Joseph L. Mankiewicz|William A. Wellman|Richard Quine|Joseph Strick|Guy Green|Curtis Bernhardt|Vincente Minnelli|John Frankenheimer|Stuart Paton|Roy Del Ruth|Michael O'Herlihy|Jacques Tourneur|Brian De Palma|Jeff Kanew|Otto Preminger|Norman Z. McLeod|Mark Robson|Anthony Mann|Kirk Douglas|Hal Needham|H. Bruce Humberstone|Mario Camerini|Jean Renoir|David Butler|Peter Godfrey|Stanley Kubrick|Melville Shavelson|Vincent Sherman|Jack Arnold|Richard Fleischer|Robert Aldrich|H.C. Potter|Mario Van Peebles|Burt Kennedy|Richard Wallace|David Miller|Howard Hawks|Michael Curtiz|Martin Ritt|Budd Boetticher|Jonathan Lynn|Billy Wilder|Sam Wood|Allan Dwan|Fred Schepisi|Fritz Lang|John Sturges|Charles Martin|William Wyler|Joseph Kane|Stanley Donen
+1975|2004
+Mystery|Romance|Biography|Family|Horror|Crime|Drama|Fantasy|Adventure|Action|Comedy|Musical|Thriller
+Fred Barzyk|Ron Clements|Harald Zwart|Allen Hughes|Emilio Estevez|David Twohy|Stuart Orme|John Carpenter|Jerry Ciccoritti|Jack Hofsiss|David Lynch|John Musker
+Barbra Streisand|Nick Nolte
+Kathryn Bigelow|Christian Duguay|Paul Bogart|Peter Hyams
+Jim Caviezel
+Darren Aronofsky|Robert D. Siegel
+1993|2007|2012
+French|English
+Paul Rudd|Rex Harrison|Anthony Newley|Samantha Eggar|Richard Attenborough
+Japanese|English
+1968|1964|1940|1967|1963|1954|1951|2007|1939|1966
+Kat Candler|George Gatins|John Gatins|Susan Burke|Nick Hornby|James Ponsoldt
+Drama|Comedy|Musical|Family|Western
+Italian
+Horror
+Arnold Laven|Irwin Allen|Victor Saville|Vincente Minnelli|Sam Wood|Bruce Geller|Raoul Walsh|Sidney Sheldon|Tay Garnett|Fred M. Wilcox|Mervyn LeRoy|William Wyler|Richard Brooks|Fritz Lang|John Ford
+German|English|Japanese|Norwegian|Dutch|Russian|Italian
+Mystery|Crime|Drama|Adventure|Action|Comedy|Musical|Thriller|Western
+Pamela Sue Martin|Drew Barrymore|Robert Forster|James Woods|James Remar|Jay Leno|Joan Chen|Michael V. Gazzo|Robin Riker|Alan King|Mimi Rogers|Robert Conrad|Pat Morita|Rutger Hauer|Chris Sarandon
+George Sidney|Zack Snyder|Tom Savini|Dario Argento|Steve Miner|Breck Eisner|George A. Romero|Michael Gornick
+Mystery|Drama|Comedy|Action|Musical
+Drama
+German|English|French|Italian
+Yann Samuell|Jonathan Kesselman|Bill Guttentag|Nickolas Perry|Jonathan Segal|Don Roos|Joe Wright|Jonathan Parker|John Polson|Bernard Rose|Clarence Brown|Darren Lynn Bousman|Jonathan Frakes
+Indonesian
+Joe Halpin|Richard Beattie|Don Michael Paul|Robert Rodriguez|Keoni Waxman|Trevor Miller|Steven Seagal|John Westermann|Robert Rodat|Wendell Morris|Max Catto|Andrew Davis|Lordi|Michael Black
+Les Blank|Ericson Core|Werner Herzog
+Drama|Horror|Biography
+Mystery|Horror|Crime|Drama|Fantasy|Biography|Action|Comedy|Documentary|Western|Thriller|Adventure
+Neil Jordan|John Crowley|Joe Wright
+Drama|Comedy
+Ben Johnson|Estelle Getty|David Copperfield|Jamie Lee Curtis|Tom Berenger|Anthony LaPaglia|Kirstie Alley|Liev Schreiber|Barry Pepper|Mel Gibson|Pierce Brosnan|Jeff Goldblum|Arnold Schwarzenegger|Clancy Brown|Sylvester Stallone|Sidney Poitier|Robert Downey Jr.
+Penelope Spheeris|Greg Erb|Fred Wolf|Craig Mazin|Jonathan King|Mike Myers
+Drama|Comedy|Documentary|Musical|Crime
+Marlon Brando|Errol Flynn|Trevor Howard|Fred MacMurray|Frances Dee|Ronald Colman|Basil Rathbone|Claudette Colbert|Charles Laughton|Clark Gable
+1987|1993|1985|1997|1998|1988|2002|2003|2000|2001|2006|2004|2005|2014|2008|2011|2010|2013|2012
+2003|2001|1932
+2014|2001|2012|2003|1998
+Drama|Romance|Western|Action|Comedy|Thriller
+2013|2005
+1967|1947|1926|1928|1948|1968|1942|1943|1940|1941|1946|1961|1944|2010|1933|1932|1931|1930|1951|1936|1934|1939|1938|1959|1997|1973|1956|1937
+Robert Silverberg|Isaac Asimov|David Simkins|Larry Doyle|Steve Kloves|Anne Fine|Chris Columbus
+1931|1930|1926
+Michael Almereyda|Adrian Grunberg|Roland Emmerich|George Ogilvie|Keith Gordon|Todd Field|Seth Gordon|Peter Weir|Terrence Malick|John Badham|Tim Burstall|Wim Wenders|Roger Spottiswoode|Richard Donner|Courtney Solomon|Nancy Meyers|Brian De Palma|Lewis Milestone|Jodie Foster|David Lynch|Grigori Kozintsev|Martin Campbell|Brian Helgeland|Tony Richardson|Nick Park|Dean Semler|Steve Miner|Perry Moore|Gillian Armstrong|Aaron Schneider|Franco Zeffirelli|Laurence Olivier|M. Night Shyamalan|Ron Howard|John Gielgud|Hugh Wilson|Charles Matthau|Michael Apted|Tom Moore|Robert Rodriguez|Randall Wallace|Richard Pearce|Robert Altman|Robert Towne|George Miller|Hunter Hill|Peter Lord|William Wyler|Roger Donaldson|Kenneth Branagh|Mel Gibson
+Korean
+Rex Harrison|Carole Lombard|Ellen Corby|Steven Hill|Louis Wolheim|Stewart Granger|Lynne Frederick|Lizabeth Scott|Elke Sommer|Irene Dunne|Morris Carnovsky|Lloyd Bridges|Betty Lou Holland|Robert Mitchum|Paul Sorvino|Joseph Bologna|C. Aubrey Smith|Kim Stanley|Ruth Gordon|Lily Pons|Marie Prevost|Robert Ryan|Bette Davis|Leslie Howard|Madeleine Carroll|Lionel Jeffries|Ronald Colman|James Stewart|Louis Calhern|Agnes Moorehead|Renée Taylor|Thomas Meighan|Hope Emerson|Peter Sellers|Raymond Massey|Humphrey Bogart|Deborah Kerr|Henry Fonda|Jane Greer|Eleanor Parker
+Drama|Action|Mystery|Thriller|Crime
+French
+Portuguese|Dutch|Czech|Spanish|Japanese|Greek|English|Italian
+Valerie Perrine|Al Pacino|Barbara Harris|Lee Grant|Tuesday Weld|James Coburn|Maureen Stapleton|Ian Bannen|Richard Pryor|Nick Nolte|Ali MacGraw|Judd Hirsch|Michael Douglas|Steve Lawrence|Dyan Cannon|Dick Shawn|Steve Martin|Lee Remick|Patrick McGoohan|Alan Arkin|George Peppard|Jill Clayburgh|JoBeth Williams|Peter Falk|Bette Midler|Judith Ivey|George C. Scott|James Coco|Tom Arnold|Gene Wilder|Walter Matthau|Ralph Macchio|Ryan O'Neal|David Paymer|Sophia Loren|Rod Steiger|John Marley|Charles Grodin|Chill Wills|Mary Steenburgen|Rock Hudson|James Garner|Natalie Wood|Dudley Moore|Julie Andrews|Richard E. Grant|Catherine O'Hara|Shelley Long|Peter O'Toole|James Belushi|Ray Milland|Melvyn Douglas|Robin Tunney
+2009
+Michael Almereyda|Anthony Harvey|James Ivory|Walter Hill|Stuart Rosenberg|Jonas Åkerlund|Mitch Glazer|Mike Hodges|Steven Spielberg|John Madden|Lewis Teague|Woody Allen|Zalman King|Michael Tolkin|Nicolas Roeg|Jocelyn Moorhouse|Mikael Håfström|Jack Hofsiss|Simon Wincer|Robert Benton|Michael Cimino|Sacha Gervasi|Francis Ford Coppola|Tarsem Singh|David Lynch|Grigori Kozintsev|Anthony Hopkins|Austin Chick|Robert Wise|Tony Richardson|Julie Taymor|Steven Lisberger|Michael Seresin|Geoff Murphy|Robert Zemeckis|Steven Zaillian|Julien Temple|Matthew Patrick|Edward Zwick|Brett Ratner|Darren Aronofsky|Franco Zeffirelli|Laurence Olivier|David Twohy|Lee Tamahori|John Gielgud|Gregory Hoblit|Michael Feifer|Frank Oz|Alan Parker|Martin Brest|Damian Harris|Robert Rossen|Ridley Scott|Sidney Lumet|Oliver Stone|David Mamet|Fred Schepisi|Tony Scott|Graham Baker|Barbet Schroeder|Vincent Gallo|Joel Schumacher|Roger Donaldson|Scott Hicks|Kenneth Branagh|Richard Attenborough
+Richard Prince|Matthew Barney
+Nicoletta Braschi|John McIntire|Mae Busch|Richard Kiley|Paolo Bonacelli|Andrew Duggan|Shirley Knight|Tom Waits|Vincent Price|Chester Morris|Louise Fazenda|Agnes Moorehead|Roberto Benigni|Harry Stubbs
+Randall Wallace|James Seymour|Ranald MacDougall|Bartlett Cormack|Fannie Hurst|Joseph L. Mankiewicz|William Hurlbut|Ben Markson|Eduardo Mignogna|Avery Hopwood|David Boehm|James Napier Robertson|Faith Baldwin|Sidney Buchman|Vincent Lawrence|Erwin S. Gelsey|Waldemar Young
+Takashi Shimizu|Stephen Susco|Eiko Kadono|Hayao Miyazaki
+Korean|Japanese
+Tom Tryon|Arthur O'Connell|Lee Remick|Patricia Neal|John Wayne|Kirk Douglas|Ben Gazzara|James Stewart
+Robert Stack|Simone Simon|Robert Mitchum|Jane Randolph|Brian Keith|Aldo Ray|Virginia Mayo|Hedy Lamarr|Steve Reeves|Merle Oberon|Tom Conway|Boris Karloff|Vincent Price|Kirk Douglas|Peter Lorre|Anne Bancroft|Jane Greer|Paul Lukas|Robert Ryan|Nastassja Kinski|Kent Smith
+David Dortort|Horace McCoy|Claude Stanush
+Curtis Hanson|Elia Kazan|George Miller|John A. Davis|Phillip Noyce|Tim Burton|Wes Craven|Ben Younger|Lewis John Carlino|Jack Nicholson|Phyllida Lloyd|Sean Penn|Susan Seidelman|Rob Reiner|Mike Nichols|George Marshall|Carl Franklin|Robert Benton|Etienne Périer|Peter Segal|Michelangelo Antonioni|Roman Polanski|John Huston|Rockne S. O'Bannon|Jerry Schatzberg|Jonathan Demme|Pat O'Connor|George Stevens|Tony Richardson|Gavin Hood|Stanley Kubrick|Henry Hathaway|Ulu Grosbard|Robert Zemeckis|William Wyler|David Frankel|John Ford|John Patrick Shanley|Sydney Pollack|Jack Garfein|Jerry Zaks|James L. Brooks|Alan J. Pakula|Richard Rush|Arthur Penn|Edward Dmytryk|Nancy Meyers|Clint Eastwood|Hal Ashby|Martin Scorsese|Stephen Daldry|Danny DeVito|Fred Schepisi|Alexander Payne|Karel Reisz|Greg MacGillivray|Robert Redford|Barbet Schroeder|Henry Jaglom|Wes Anderson|Monte Hellman|James Foley|Richard Thorpe|Tay Garnett|Bob Rafelson
+Glenn Close|Ethan Hawke|Patrick Stewart|Alan Bates|Judy Parfitt|Oliver Ford Davies|Diane Venora|Kyle MacLachlan|David Tennant|Marianne Faithfull|Penny Downie|Mel Gibson|Nicol Williamson|Sam Shepard|Anthony Hopkins|Paul Scofield|Richard Attenborough
+Jean Cocteau|Jacques Audiard|Roger Allers|Christian Chapiron|Billy Wilder|Tonino Benacquista|John Hodge|Luciano Vincenzoni|John Wainwright|Jez Butterworth|Gilles Mimouni|Romain Gavras|Jacques Akchoti|Michael Davis|Spike Lee|Philippe Garrel|Simon Moore|Giuseppe Tornatore|Joe Ahearne|James Siegel|Christophe Gans|Christopher Hampton|Stéphane Cabel|Marina de Van|Heitor Dhalia|Jet Li|Matthew Lewis|Dominik Moll|John Kerr|Chris Roberts|Luc Besson|Linda Woolverton|Kim Chapiron
+1984|1982|1940|1941|1946|1933|1932|1937|2007|1935|1934|1929|2006|2012
+Martin Scorsese
+Crime|Drama|Fantasy|Animation|Western|War|Thriller
+Cynthia Gibb|Patrick Swayze|Ivan Sergei|Rob Lowe|Emilie de Ravin|Gary Cooper
+Bernie Goldmann|John Woo|Tim Fywell|David Yates|Philipp Stölzl|Shirley Barrett|Neil LaBute|David Hare|Bryan Singer|Melisa Wallack|Joshua Michael Stern|E. Elias Merhige|Daina Reid|Jason Reitman|Sarah Smith|Richard Curtis|Barry Cook|Brandon Camp|Christopher Nolan|Jonathan Lynn|Antoine Fuqua|John Duigan|John Cameron Mitchell|Hans Canosa|Scott Hicks|Brian De Palma
+Stuart Baird|Greg Marcks|Zack Snyder|Keoni Waxman|Seth Zvi Rosenfeld|Michelle Manning|Rich Cowan|Mark A.Z. Dippé|Rocky Morton|Carlos Saldanha|John Dahl|Douglas Day Stewart|William Friedkin|Brian De Palma|Jeff Kanew|George A. Romero|Brad Anderson|Walter Hill|John Singleton|Spike Lee|Henry Hathaway|Marek Kanievska|Steve Rash|Don Bluth|Sam Weisman|Jon Favreau|Duane Crichton|Alexandre Aja|Jonas Åkerlund|Thaddeus O'Sullivan|Alan Rudolph|Martin Scorsese|Paul Schrader|Brad Furman|Tim Story|Gary Goldman|Annabel Jankel|Barbet Schroeder|Andrew Bergman|Abel Ferrara|Chris Wedge|Roel Reiné
+Short|Crime|Western|Action|Comedy|Adventure
+Drama
+Comedy|War|Thriller|Crime
+1920|1921|1922|1923|1925|1926|1928|1929|1986|1984|1982|1980|1981|1966|1989|2014|1948|1933|1918|1930|1952|1998|1991|1990|1979|1977|1976|1975|1974|1970|2005
+Leonard Nimoy|Craig Brewer|Atom Egoyan|Rob McKittrick|Nick Ormerod|Tim Burton|Jan de Bont|Morgan J. Freeman|Paul Haggis|Steven Spielberg|John Madden|Sam Esmail|Sally Potter|Patty Jenkins|Stephen Hopkins|Olivier Megaton|Scott Marshall|Peter Lepeniotis|Ben Gluck|Scott Frank|Bill Condon|Michael Apted|John Waters|David Von Ancken|Anthony Bell|Declan Donnellan|Nanette Burstein|Neil Jordan|Kevin Smith|Ken Annakin|Sarah Spillane|Robert Wise|Simon Brand|Anthony Abrams|Greg MacGillivray|Eric Blakeney|Simon Moore|Brian Gilbert|John Irvin|Bob Spiers|Cheryl Hines|Jamie Travis|David Seltzer|Ted Koland|Christopher Nolan|Don Roos|Kat Coiro|Buddy Van Horn|Richard Pearce|Richard Eyre|Erik Skjoldbjærg|Lesli Linka Glatter|Mark Griffiths|Jonathan Liebesman|Sam Raimi|Graeme Clifford|Joe Carnahan|Barbet Schroeder|Pierre Morel|Vincent Gallo|Seth MacFarlane|Adam Larson Broder|Peter Yates|Jamie Linden
+Mystery|Romance|Sport|Biography|Horror|Crime|Drama|Fantasy|War|Animation|Music|Adventure|Action|Comedy|Musical|Thriller|Western
+German
+Richard Martin Stern|Hervey M. Cleckley|Lawrence Roman|William Faulkner|E. Max Frye|James Goldman|Richard Russo|Stirling Silliphant|Tom Mankiewicz|Michael V. Gazzo|David Mamet|Irving Ravetch|Terrence Malick|Larry Forrester|Ernest Lehman|Ira Levin|Richard Brooks|James Poe|Tennessee Williams|Sidney Carroll|John Milius|John O'Hara|Elmore Leonard|Ethan Coen|Brian Moore|John Lasseter|Arthur Kopit|Walter Tevis|Robert Benton|Donn Pearce|Huey Perry|Irving Wallace|John H. Secondari|Alfred Hayes|Ross Macdonald|Thomas N. Scortia|William Murray|Elliott Baker|Ken Kesey|Nancy Dowd|Max Shulman|Arnold Schulman|Leo McCarey|David S. Ward|Melville Shavelson|Edith R. Sommer|Paul Zindel|James Dearden|Blaze Starr|Nicholas Sparks|Rod Serling|Larry McMurtry|Cornelia Baird Gross|Walter Bernstein|Carl Foreman|Vittorio Nino Novarese|Harold Flender|Ron Shelton|Joe Ranft|Herb Meadow|Leslie Stevens|Israel Zangwill|Robert Stone|John Gay|Robert Rossen|Meade Roberts|Robert Altman|Barry Reed|Richard Price|Bonnie Hunt|William Goldman|Sam Raimi|Beth Henley|Peter Milne|Stephenie Meyer|Gore Vidal|Frank Pierson|Stewart Stern|Frank M. Robinson|Thomas B. Costain|Alvin Sargent|Melissa Rosenberg
+Elia Kazan|David S. Ward|Victor Fleming|Robert Mulligan|Alfred Hitchcock|Otto Preminger|Emilio Fernández|Peter Masterson|John Ford|Bruce Beresford|William Dieterle
+1954|1960|1952|1944|1929|1963|1987|1949|1968|1980|1942|1943|1940|1941|1946|1961|1962|1945|2014|2012|1933|1932|1957|1956|1937|1936|1935|1934|1939|1938|1959|1958|1991|1955|1978|1996|1964|2006|2007|1965|1951|2008|1950
+1995|1994|2003|2000|2008|2012
+1991|1990|1993|1994|1997|1998|1972
+Steve Evets|Luis Tosar|Peter Mullan|Eric Cantona|Kierston Wareing|Samuli Edelmann|Robert Carlyle|Oyanka Cabezas|Daniel Brühl
+2009|2010|2013|2012
+1951|1957|1982
+Thriller
+Terry Gilliam|Stephen King|Mark Medoff|Sean Penn|Frank Whaley|Brent Maddock|Henry Bean|Larry McMurtry|John Wagner|Dylan Mohan Gray|Lawrence Kasdan|Robert Harling|John Penney|Dennis Potter|Jon Krakauer|Nora Ephron|Barbara Wilson|Peter Hedges|Zak Penn|Kat Candler|Julie Delpy|Michael Palin|Alex Proyas|Anne Tyler|Josh Olson|Martin Cruz Smith|Anna Quindlen|Lem Dobbs|Paula Milne|Bruce A. Evans|Markus Schleinzer|Stanley Kubrick|John D. MacDonald|Ethan Canin|Richard Rutowski|James Cameron|Marco Martins|Hesper Anderson|Quentin Tarantino|Dick Maas|Frank Galati|James L. Brooks|Paddy Chayefsky|Pete Hamill|Steve Tesich|Karen Croner|Jay Cocks|Richard Jefferies|Manuel Puig|Edward Anderson|Christopher McQuarrie|Leonard Schrader|Robert Altman|Oliver Stone|Julie Gavras|Robert Harvey|David S. Goyer|Lewis Carroll|Woody Allen|Diane Johnson|Garry Marshall|James R. Webb|Vince Locke
+Andrzej Bartkowiak
+Norwegian
+1990|2009
+French|English
+1991|1984|1982|1980|1978|1996|1973|1989|2005
+Gavin Hood|Martin Scorsese
+Miho Nakayama|Takako Matsu|Etsushi Toyokawa
+Family|Horror|Crime|Drama|Fantasy|Adventure|Action|Comedy|Thriller
+Gregory Peck|Donald Sutherland|Fairuza Balk|Ben Affleck|Tuesday Weld|Scott Glenn|Stellan Skarsgård|David Thewlis|Frank Sinatra|Roy Scheider|Bruce Dern|Ivo Garrani|James Garner|Val Kilmer|Burt Lancaster|Paul Scofield|Fernando Rey|Barbara Carrera|Bob Balaban|Don Johnson|Michael Gambon|Robert Foxworth|Robert De Niro|Natascha McElhone|Janet Leigh|Nigel Davenport|Sharon Stone|Thelma Ritter|Kirk Douglas|Michael Caine|Andrew McCarthy|Warren Beatty|Talia Shire|Edward Andrews|Marthe Keller|Robert Shaw|Jeanne Moreau|Darren McGavin|Yves Montand|Alan Bates|John Richardson|Vanity|Richard Harris|Rock Hudson|William Forsythe|Penelope Ann Miller|Eva Marie Saint|Michael York|Marlon Brando|Fredric March|Ava Gardner|Valeria Golino|Dina Merrill|Armand Assante|Jean Reno|Alec Baldwin|Barbara Steele|Laurence Harvey|Robert Ryan|Gene Hackman|Angela Lansbury
+Mystery|Romance|Horror|Crime|Drama|Fantasy|Animation|Adventure|Action|Comedy|Thriller
+Swedish|English
+Michael Moore
+1987|1948|1943|1940|1931|1945|1933|1932|1957|1937|1936|1927|1929|1938
+Action|Adventure
+Don Michael Paul|Stuart Baird|Keoni Waxman|Dwight H. Little|mink|Robert Parrish|Félix Enríquez Alcalá|Don E. FauntLeRoy|Albert Pyun|Richard Crudo|Dean Semler|Alexander Gruszynski|Michael Oblowitz|Bruce Malmuth|Andrzej Bartkowiak|Steven Seagal|Michael Keusch|Anthony Hickox|Andrew Davis|John Gray|Roel Reiné|Lauro Chartrand|Robert Rodriguez|Roland Emmerich|Ethan Maniquis
+Michael Imperioli|Aaron Stanford|Kate Hudson|Chris Pratt|Polly Draper|Bryan Greenberg|Anne Hathaway|Robert Iler|Kate Mara
+Montgomery Clift|Walter Brennan|Joanne Dru|John Wayne
+Toni Kalem|Lawrence Kasdan|Michael Apted|Steven Spielberg|Mick Jackson
+Drama|Musical
+Peter Bryant|Vivica A. Fox|Harrison Page|Deborah Rennard|Mark Dacascos|Lisa Pelikan
+German|French|English
+Action|Comedy
+Comedy
+Bill Paxton|Christopher Reeve|Robert Armstrong|Eddie Murphy|Robert Downey Jr.|Billy Crystal|Bonnie Bedelia|Michael Keaton|Daniel Stern|Patricia Wettig|Geena Davis|Ben Johnson|Bruno Kirby|Charlize Theron|Terry Moore
+Greg Beeman|Ken Russell|Franco Amurri|Fred Walton|Joan Micklin Silver|Howard Deutch|James Toback|Gene Wilder|David Anspaugh|Kimble Rendall|George Hickenlooper|John Hughes|Rudy De Luca|Daryn Tufts
+French
+Drama|Romance|Comedy
+Harold Ramis|John Landis|Allan Arkush|Ivan Reitman|Stanley Donen
+Drama|Fantasy|Adventure|Action|Comedy|War
+Takashi Bufford|Elmore Leonard|Kurt Wimmer|Donna Powers|Kate Lanier
+Courtney Solomon|Hugh Wilson|Joseph L. Mankiewicz|Alexander Korda|John Milius|Oliver Parker|Michael Powell|Otto Preminger|Ethan Coen|Orson Welles|Herb Gardner|Joel Oliansky|Peter Yates|Walter Murch|Lee Tamahori|William K. Howard|Charles Matthau|William Dieterle|Jerry Schatzberg|Ridley Scott|Jarmo Lampela|Jane Anderson|Kenneth Branagh|Bruno Barreto|Edward Dmytryk|John Badham|David O. Selznick|Claude Chabrol|David Siegel|Marc Rocco|Steve Miner|Robby Henson|Richard Fleischer|John Huston|Basil Dearden|Mark Rydell|Henry King|Joan Micklin Silver|Perry Moore|Alfred Hitchcock|George Roy Hill|Henry Koster|Matt Reeves|Antoine Fuqua|Robert Altman|Chris Columbus|Franklin J. Schaffner|Joel Coen|Lasse Hallström|Joe Roth|Wash Westmoreland|Peter Howitt|Allan Moyle|Tim Whelan|Neil Jordan|Jean Renoir|Todd Haynes|Tony Richardson|Ernst Lubitsch|Laurence Olivier|Jay Roach|David Lynch|King Vidor|Michael Apted|Tom Moore|Richard Pearce|David Cronenberg|Robert Rossen|Emeric Pressburger|Stephen Daldry|Olivier Assayas|Richard Glatzer|Scott McGehee|Joseph Ruben|Hunter Hill|Alan Crosland|Atom Egoyan|Jeff Wadlow|Todd Field|Greg Swartz|Seth Gordon|Terrence Malick|Tod Browning|Ami Canaan Mann|Vincente Minnelli|Tom Cairns|Richard Donner|Martin Campbell|Stanley Kubrick|Tom Kalin|Karen Moncrieff|Aaron Schneider|Craig Zisk|Martin Scorsese|Ivan Reitman|Bart Freundlich|John Schlesinger|Stuart Burge
+1986|1987|1993|1995|1994|1997|1990|1973|1989|2003|2000|2001|2006|1926|2005|2014|2009|2011|2010|2013|2012
+Christopher Reeve|Donald Sutherland|Natasha Gregson Wagner|Ned Beatty|William Hurt|Keith David|Lizabeth Scott|Charlton Heston|Liam Neeson|Wesley Snipes|Stephen Dorff|Michael Caine|William Forsythe|Gary Oldman|Luis Guzmán|Katie Holmes|Amanda Donohoe|Christian Bale|Raymond Cruz|Julie Warner|Tom Hardy|Rufus Sewell|Marlon Brando|Dean Jagger|Jennifer Connelly|Tom Berenger|Eric Thal|Dalton James|Kiefer Sutherland|Gene Hackman
+2000|1968|1972
+Nicole LaLiberte|Danielle Panabaker|Anthony Hopkins
+Brad Bird|Jan Pinkava
+English|Italian
+1965|1967|1961
+Finn Taylor
+German
+Russian|French
+Danny Aiello|Ken Wahl|Jackie Chan|Alberta Watson
+2014
+Clive Gordon|Ivan Engler|Ken Loach
+Mystery|Romance|Crime|Drama|Western|Action|Comedy|War|Thriller
+1978|1962|1972|1979|1961
+Mystery|Biography|Horror|Musical|Drama|Fantasy|Adventure|Crime|Comedy|War|Thriller
+Spanish
+Action|Comedy
+Michael Cooney|Richard C. Sarafian|Michael Keaton|James Gunn|Jon Turteltaub|Jack Nicholson|Wim Wenders|Peter Hyams|Stan Dragoti|Tim Burton|Michael Ritchie|John Schlesinger|William Friedkin|Glenn Gordon Caron|Norman Z. McLeod|William A. Fraker|Harold Ramis|Forest Whitaker|Art Linson|Amy Heckerling|Bruce Joel Rubin|José Padilha|Melvin Frank|Peter Yates|Barry Sonnenfeld|Howard Zieff|Russell Mulcahy|Robert Zemeckis|Don Bluth|Gary Fleder|Burt Kennedy|Alexandre Aja|Donald Petrie|Michael Hoffman|Armand Mastroianni|Jonathan Lynn|Heywood Gould|Paul Schrader|Gary Goldman|Mick Jackson|Anatole Litvak|Bob Clark|Paul Verhoeven|Joseph Ruben|Mel Brooks|Barbet Schroeder|Ron Howard|Clarence Brown|Ron Underwood
+Mark Twain|Allen C. Miller|James M. Cain|Jan de Hartog|Jack Moffitt|Lewis E. Lawes|Roy Chanslor|Arthur T. Horman|Roland Gillett|Paul Green|Casey Robinson|Preston A. Whitmore II|Lenore J. Coffee|Mika Waltari|Norman Reilly Raine|Donald Henderson Clarke|Robert Buckner|Abem Finkel|Paul Wellman|Carl Erickson|John Wexley|Charlotte Armstrong|Rowland Leigh|Seton I. Miller|Richard Macaulay|Harry Harrison Kroll|Alfred Lord Tennyson|Philip G. Epstein|Dorothy Baker|Ranald MacDougall|Albert Husson|James Norman Hall|Fannie Hurst|Ernest Hemingway|Michael A. Musmanno|Howard Koch|Julius J. Epstein|Charles Hoffman|Tinto Brass|Robert Rossen|Charles Nordhoff|Warren Duff|Lillie Hayward|Michael Jacoby|Jack London|Joseph E. Davies|Rowland Brown|Laird Doyle|Darryl F. Zanuck|Harry R. Irving|William Bowers|Murray Burnett|Philip Dunne|Harold Robbins|Robert Wilder|Joan Alison|Leo Townsend|Edmund H. North|Maxwell Anderson|Claude Binyon|Carl Foreman|Rafael Sabatini
+French
+Mamoru Hosoda|Satoko Okudera
+Wolfgang Reinhardt|Victor Hugo|Dashiell Hammett|Mary C. McCall Jr.|Edward Knoblock|Heinz Herald|Robert N. Lee|Charles Martin|Bertita Harding|Christopher Massie|Max Trell|Ladislas Fodor|George Dyer|Alex Proyas|Brown Holmes|Wells Root|Franz Werfel|John Huston|William Shakespeare|Lem Dobbs|Marion Parsonnet|Michael Hoffman|Robert Nathan|Ayn Rand|Bertram Bloch|Alvin Meyers|Pierre Collings|Dan Totheroh|Charles Kenyon|Sheridan Gibney|Eugene Solow|Milton Gunzburg|Norman Burnstine|David S. Goyer
+1991|1987|1984|1995|1983|1997|1999|1993|1988|2002|2006|2004|2009|2011|1986
+Fernley Phillips|Edward Anderson|Robert Benton|John Grisham|Jane Wagner|Ebbe Roe Smith|Marti Leimbach|Richard Matheson|Jordan Melamed|Gaston Leroux|Ross Thomas|Robert Zemeckis|Bob Gale|Andrew Lloyd Webber|Mary Agnes Donoghue|Joel Schumacher|Carol Doyle|Nick McDonell|David Newman
+Mani Ratnam
+Anthony Perkins|Kris Kristofferson|Meat Loaf|Nick Nolte|Frank Bonner|Barbara Hewitt|Lori Singer|Keith Carradine|Lesley Ann Warren|Elizabeth Perkins|Geraldine Chaplin|Matthew Modine|Linda Fiorentino|Geneviève Bujold|Lara Flynn Boyle|Arnold Vosloo|Eric Roberts|Jennifer Jason Leigh|Anne Archer|Fred Ward|Tom Berenger|Edward Connell|Emily Watson
+1964|1965|1967|1963|2001|2005
+German|Japanese|English
+Mildred Gordon|Eric Hatch|Don Tait|Isobel Lennart|Eric Ambler|Evan Hunter|Herman Melville|Henryk Sienkiewicz|Daphne Du Maurier|Felix Salten|Louis Pelletier|Amy Holden Jones|Monja Danischewsky|Dale Wasserman|Ranald MacDougall|Albert Aley|Albert Husson|Ira Wallach|Julius J. Epstein|Agatha Christie|Ernest K. Gann|Peter Ustinov|Anthony Shaffer|Peter Buckman|Jon Cleary|Muriel Resnik|Michael Winner|Gordon Buford|Sonya Levien|John Lee Mahin|John Hughes
+1987|1992|1969|1997|1999|1998|2002|2003|2000|1956|2006|2004|2014|2009|2011|2010|2013|2012
+German|English|Hebrew
+Baard Owe|Bendt Rothe|Julian West|Nina Pens Rode
+Drama
+2012
+1986|1984|1985|1983|1988|2014|2011|2010|2013|2012|1949|1950|1953|1994|1991|1990|1995|1997|1979|1978|1977|1998|2002|2003|2000|2001|2006|2004|2005|2008|2009
+George W. Bush|Eddie Vedder|Michael Moore|Steve Earle
+Horror|War|Drama|Western|Crime|Musical|Thriller
+Mystery|Sport|Family|Drama|Music|Action|Comedy|Musical
+Cordell Barker|Michael Winner|George Lucas|Lionel Chetwynd|Larry Cohen|Ron Howard|Michael Laughlin|Howard Hawks|Don Siegel|Nicolas Roeg|Jonathan Demme
+Fredric M. Frank|Joseph L. Mankiewicz|Sidney Buchman|Alan Le May|Vincent Lawrence|Thelma Strabel|John Howard Lawson|Eduardo Mignogna|Lyle Saxon|Gladys Unger|Corydon M. Wassell|Wilson Barrett|Vladimir Jabotinsky|Hector Turnbull|Ranald MacDougall|C. Gardner Sullivan|Bartlett Cormack|Harold Lamb|Waldemar Young|Jeanie Macpherson|Edwin Justus Mayer|Cecil B. DeMille|Ernest Haycox|James Hilton
+1987|1980|1999|1975|1971|1957|1956
+Family|Horror|Crime|Drama|Fantasy|Adventure|Action|Comedy|Thriller|History
+2002|2000|2001|2010
+Mark Twain|Allen C. Miller|James M. Cain|Jan de Hartog|Donald Henderson Clarke|Lewis E. Lawes|Roy Chanslor|Arthur T. Horman|Roland Gillett|Paul Green|Casey Robinson|Preston A. Whitmore II|Lenore J. Coffee|Mika Waltari|Norman Reilly Raine|Robert Buckner|Abem Finkel|Paul Wellman|Carl Erickson|John Wexley|Charlotte Armstrong|Rowland Leigh|Seton I. Miller|Harry Harrison Kroll|Alfred Lord Tennyson|Philip G. Epstein|Dorothy Baker|Ranald MacDougall|Albert Husson|Richard Macaulay|Fannie Hurst|Ernest Hemingway|Michael A. Musmanno|Howard Koch|Julius J. Epstein|Charles Hoffman|Tinto Brass|Robert Rossen|Carl Foreman|Warren Duff|Lillie Hayward|Michael Jacoby|Jack London|Joseph E. Davies|Rowland Brown|Laird Doyle|Darryl F. Zanuck|Harry R. Irving|William Bowers|Murray Burnett|Philip Dunne|Harold Robbins|Robert Wilder|Joan Alison|Leo Townsend|Edmund H. North|Maxwell Anderson|Claude Binyon|Edmund Joseph|Rafael Sabatini
+Russian
+Rachel Griffiths|Natasha Richardson|Jack Huston|Lindsey Haun|Alan Rickman|Max Kasch
+French
+1935|1960|1934|1944|1926|1927|1928|1929|1963|1987|1984|1949|1982|1969|2003|1942|1943|1940|1941|1946|1947|1962|1945|2012|1948|1955|1954|1931|1930|1937|1936|1953|1952|1939|1938|1958|1933|1995|1932|1957|1970|1964|2000|1956|2006|2007|1965|1951|2008|1950
+1928|1929|1968|1969|1964|1965|1967|1960|1961|2015|1933|1954|1956|1951|1936|1955|1997|1977|1974|1972|1970|1930|1950
+Drama|Horror|Thriller
+1976|1965|1977|1984|1985|1968|1983|1980|1981|1943|1966|1967|1989|2011|2013|1956|1969|1991|1992|1994|1997|1996|1999|1998|1975|1978|1971|1970|2002|2003|2000|2006|2007|2005
+Drama|Comedy|Sport|Crime
+French
+1986|1990|1984|1995|1980
+Martin Scorsese|Marco Martins|Herbert Ross|Woody Allen|Penny Panayotopoulou|Francis Ford Coppola|Howard Morris
+Comedy
+Curtis Hanson|Holly Goldberg Sloan|Anne Holden|Jonathan Mostow|Brent Maddock|Hugh Wilson|Neil Offen|Edward Hume|Steven Horowitz|Harvey Miller
+Franz Werfel|Meade Roberts|James Poe|Tennessee Williams|Bridget Boland
+2008|1992|1995|1994
+Nicolas Winding Refn|James Sallis|Hossein Amini
+Comedy
+1991|1985|1983|1979
+Mystery|Crime|Drama|Fantasy|Comedy|Musical
+German|French|English
+Sebastián Silva|Pedro Peirano
+Adrian Lyne|Vincente Minnelli|Claude Chabrol
+Elia Kazan|Ira Sachs|James Ivory|Milton Moses Ginsberg|Cornel Wilde|Lewis John Carlino|George Cukor|Nicolas Roeg|William A. Wellman|Andrew Fleming|Michael Anderson|Michael Ritchie|Simon Wincer|Michael Cimino|Robby Henson|Lewis Milestone|Don Siegel|Alan Rudolph|Jerry Schatzberg|John Erman|Paul Mazursky|Ulu Grosbard|Charles Martin Smith|Peter Skillman Odiorne|Alan J. Pakula|Sam Peckinpah|Michael Crichton|Don Coscarelli|Sidney Lumet|Daryl Duke|Glenn Jordan|Stephen Sommers|Robert M. Young
+Action|Thriller
+1986|1987|1985|1983|1980|1981|1965|1988|2014|2011|2010|2013|1950|1991|1990|1996|1999|1998|1970|2006|2007|2005|2008|2009
+Lois Nettleton|Ben Johnson|Randolph Scott|Pernell Roberts|John Wayne|Ernest Borgnine|Richard Boone|Robert Culp|Keir Dullea|Rod Taylor|Buddy Ebsen|Maureen O'Sullivan|Karen Steele|Clint Eastwood|Raquel Welch
+Ernest Pascal|Walter Ferris|Laura E. Richard|F. Hugh Herbert|Frances Hodgson Burnett|Nunnally Johnson|James P. Judge|Marion Parsonnet|Alan Le May|Clarence Upson Young|Nat Perrin|James Vance Marshall|Paul Girard Smith|Jonas Ward|Vincent Lawrence|Ethel Hill|George O'Neil|Philip Klein|William M. Conselman|Maurice Maeterlinck|Leigh Janiak|Lawrence Hazard|John Taintor Foote|Max Brand|Edith Kneipple Roberts|Sylvia Thalberg|Robert Buckner|Elmore Leonard|William R. Lipman|Tom Reed|Harvey Fergusson|Darrell Ware|Edward E. Paramore Jr.|Jack Kirkland|Leo McCarey|Robert Dillon|Arthur J. Beckhard|H. Rider Haggard|Walter Bernstein|Sloan Nibley|Ralph Spence|David Butler|Oscar Hammerstein II|Edward Peple|Lamar Trotti|George Owen|Hubert Osborne|Dwight Taylor|Charles Hoffman|Michael Mann|Edwin J. Burke|Burt Kennedy|Niven Busch|Julien Josephson|Alice Duer Miller|Rudyard Kipling|Gladys Lehman|Walter Bullock|Roy Huggins|Sam Hellman|Glendon Swarthout|Patterson McNutt|Samuel G. Engel|Gene Lewis|Allan Scott|Zane Grey|James Fenimore Cooper|Eleanor Gates|Rex Beach|Luke Short|Sidney Sheldon|Damon Runyon|Arthur Sheekman|Charles Martin|Cameron Rogers|Jack Yellen|Richard H. Landau|Harry Tugend|Melville Baker
+Jon Darling|Sam Neill|Karen Colston|Tom Lycos|Meg Ryan|Harvey Keitel|Holly Hunter|Anna Paquin|Jennifer Jason Leigh
+Scott McGehee|David Siegel|Henry James
+Morrie Ryskind|Peter Straub|E.Y. Harburg|Eric Hatch|Nunnally Johnson|Edna Ferber|Marion Parsonnet|Jean Webster|George S. Kaufman|Billy Wilder|Adolph Green|Leonard Kantor|Blake Edwards|Ferenc Molnár|Betty Comden|Francis Edward Faragoh|Ben Hecht|Anne Caldwell|Felix Jackson|George Wells|Leonard Gershe|Melchior Lengyel|Richard Sherman|Kenneth S. Webb|Thorne Smith|John Paxton|Charles Brackett|Leo McCarey|Jack Jevne|Abe Burrows|H.W. Hanemann|Charles Martin|Oscar Hammerstein II|Larry Gelbart|Christopher Morley|Irving Berlin|Cyril Hume|P.J. Wolfson|Nevil Shute|Hubert Osborne|Eddie Moran|Dorothy Yost|Dwight Taylor|Alice Duer Miller|Edward Kaufman|Jay Dratler|Leueen MacGrath|Will B. Johnstone|William Makepeace Thackeray|Anthony Veiller|Norman Krasna|Dalton Trumbo|Erwin S. Gelsey|Alan Jay Lerner|Allan Scott|William Bowers|Ronald Bass|Samuel Hoffenstein|Walter Hart|Henry Ephron|Fred Saidy|Phoebe Ephron|Ernest Pagano|Irene Castle|Langdon Mitchell|Johnny Mercer|Lou Brock|Gina Kaus|Robert L. Buckner|George Marion Jr.|Edward Childs Carpenter
+1992|1994|1997|1989|2003|2000|2001|2007|2009
+1995|1997|1996|1998|1956|1935|1934|1939|1958|2012
+1960|1927|1945|1984|1985|1942|1959|1940|1941|1946|1944|1963|1948|1955|1932|1956|1937|1950|1935|1934|1939|1938|1933|1990|1993|1992|1995|1999|2004|2009
+1997|1987|1984|1985|1968|1980|1989|2014|2013|1956|1982|1993|1992|1995|1994|1979|1996|1977|1998|1978|1972|2003|2000|2001|2006|2007|2009
+Anthony Stacchi|Peter Chelsom|Chris Hopewell|Crispian Mills|Greg Mottola|Steven Spielberg|Graham Annable|Edgar Wright
+German|French|English
+1990|1963
+Dylan McDermott|Maureen O'Hara|Thelma Ritter|Spencer Tracy|Audrey Meadows|Jim Hutton|Terry Moore|Janis Paige|Dan Dailey|Marilyn Monroe|Katharine Hepburn|Lana Turner|Fred Astaire|Elizabeth Perkins|Ethel Merman|Donald O'Connor|Edmund Gwenn|John Payne|James Stewart|Bob Hope|Donna Reed|Sandra Dee|Leslie Caron|Steve Allen|Richard Attenborough
+Chandler Sprague|Upton Sinclair|Claudine West|Sidney Howard|Pearl S. Buck|Vincent Lawrence|Gillian Slovo|Edgar Allan Woolf|Robert Louis Stevenson|Frederick Hazlitt Brennan|Margaret Mitchell|Percy Heath|Sinclair Lewis|Frank Wead|Wilson Collison|Tess Slesinger|Andrew Solt|Mack Crane|David Boehm|Rudyard Kipling|Dalton Trumbo|Waldemar Young|L. Frank Baum|Jules Furthman|Florence Ryerson|Samuel Hoffenstein|Maxwell Anderson|Noel Langley|Talbot Jennings|John Lee Mahin|Clara Beranger|Caroline Francke
+Glenn Close|George Segal|Kim Basinger|Mitchell Lichtenstein|David Arkin|Karen Black|Ned Beatty|Robert Duvall|Barbara Baxley|Carol Burnett|Joel Grey|Sandy Dennis|Nina van Pallandt|Fernando Rey|Mia Farrow|Harry Belafonte|Randy Quaid|Michael Burns|Maggie Smith|Miranda Richardson|Shelley Duvall|Keith Carradine|David Alan Grier|Sterling Hayden|Chris O'Donnell|Julianne Moore|Harry Dean Stanton|Malcolm McDowell|Tommy Lee Jones|Sam Shepard|Sissy Spacek|Matthew Modine|Mark Rydell|Philip Baker Hall|Daryl Hannah|Jennifer Jason Leigh|Jack Lemmon|Liv Tyler|Paul Newman|Michael Gambon|Neill Barry|Martin Gabel|Andie MacDowell|Vittorio Gassman|Embeth Davidtz|Elliott Gould|Michael Wright|Sally Kellerman|Jane Curtin|Bibi Andersson|James Dean|Robin Williams|Michael Murphy|James Caan|Tim Robbins|Kenneth Branagh|Harvey Keitel|Neve Campbell|Bud Cort|Paul Dooley|Woody Harrelson|Kristin Scott Thomas|Janice Rule
+Mickey Rose|Joel Coen|Renée Taylor|Joseph Bologna|Neil Simon|Sam Raimi|Woody Allen|Louise Lasser
+Robert Siodmak|Frank Ryan|Irving Pichel|Henry Koster|Charles David
+French
+Documentary
+Drama
+John Ford|Henry Hathaway|George Marshall|Tom Gries|Richard Thorpe
+Arthur Levinson|Philip MacDonald|Edgar Allan Poe|Vicente Aranda|Dashiell Hammett|Charles Bennett|Allen Vincent|George S. Kaufman|John P. Marquand|Curt Siodmak|Thomas Edward O'Connell|Peter Lorre|Thea von Harbou|Paul Jarrico|W.R. Burnett|Joseph Anthony|Eric Ambler|Peter Milne|Irwin Allen|Menahem Golan|Melchior Lengyel|Leueen MacGrath|Ben Livingston|Brown Holmes|S.K. Lauren|John Huston|Abe Burrows|Frank Gruber|Paula Milne|John Garden|Richard Matheson|Howard Koch|Jules Verne|Israel Zangwill|Norman Foster|Hannah Shakespeare|Barry Reed|Jack Rose|Ulli Lommel|William Templeton|David Mamet|Fritz Lang|Maurice Renard|Aki Kaurismäki|W. Somerset Maugham|Fyodor Dostoevsky|Edmund Beloin|Maude Fulton
+Hindi|Spanish
+French|English
+Rex Harrison|Muriel Angelus|Dick Powell|William Demarest|Ella Raines|Eddie Bracken|Raymond Walburn|Claudette Colbert|Akim Tamiroff|Joel McCrea|Harold Lloyd|Diana Lynn|Barbara Stanwyck|Barbara Lawrence|Mary Astor|Betty Hutton|Dudley Moore|Jimmy Conlin|Linda Darnell|Armand Assante|Ellen Drew|Albert Brooks|Rudy Vallee|Henry Fonda|Brian Donlevy|Nastassja Kinski
+1991|1948|1949|1942|1943|1941|1961|1944|1947|1950|1939|1959
+Jimmy Zeilinger|Howard Zieff|Richard T. Heffron|Jay Roach|Lewis John Carlino|Todd Louiso|William Porter|Steven Kampmann|Ted Kotcheff
+Burmese|Hindi|French|English
+1975|1983|1981
+Everett Greenbaum|Tim Conway
+Eli Roth|RZA
+Joshua Logan|Pat Verducci|Raoul Walsh|Don Chaffey|Robert Lorenz|Wolfgang Petersen|Brian G. Hutton|Cy Endfield|Michael Cimino|Richard Benjamin|Don Siegel|James Fargo|Basil Dearden|Arthur Hiller|Sergio Leone|Richard Tuggle|Bretaigne Windust|Ted Post|Clint Eastwood|David Cronenberg|Buddy Van Horn|John Sturges|John Lee Hancock
+Penelope Spheeris|Greg Erb|Stephen Mazur|Fred Wolf|Paul Guay|Craig Mazin|Jonathan King|Mike Myers
+German|Romanian|English|Italian
+1996
+1982|2005
+Horror|Comedy
+Jorge Guerricaechevarría|Jerry Belson|Sergio G. Sánchez|Peter Bogdanovich|Dan Wakefield|Jonathan Gershfield|Nick Newman|John Ross|Carl Hiaasen|Barry Levinson|Robert MacLeod|Evan Hunter|Hal Needham|Gerald Di Pego|John Nichols|Peter Masterson|Ian Hislop|Thomas Rickman|Alvin Sargent|William P. Wingate|James Dickey|Colin Higgins|Tom Gries|William Neely|James L. Brooks|Don Bluth|Robert K. Ottum|Elmore Leonard|Christopher Isherwood|Walter Bernstein|Christopher Frank|William W. Norton|Dan Jenkins|Andrew Bergman|John Sayles|Blake Edwards|David Monteagudo|Larry L. King|François Truffaut|William Diehl|Valerie Curtin
+1933|1949|1995|1935|1964|1982|1940|1941|1946|1958|1955|1954|1931|1951|1936|1953|1952|1937|1939|1938|2008
+Nora Swinburne|Jean Gabin|Jean Marais|Charles Blavette|Anna Magnani|Joan Bennett|Esmond Knight|Odoardo Spadaro|Paulette Dubost|Celia Montalván|María Félix|Charles Bickford|Arthur Shields|Nora Gregor|Édouard Delmont|Mila Parély|Sissy Spacek|Ingrid Bergman|Mel Gibson|Robert Ryan
+Krzysztof Zanussi|Bruce Kimmel|George Schaefer|Stanley Tong|Dennis Dugan|Bob Logan|Paul Lynch|George A. Romero|Pat Proft|Fred M. Wilcox|Craig Mazin|Nelson McCormick|Paul Shapiro|Henry Koster|William Dear|George Marshall
+Roland Topor|David Ives|Delphine Gleize|Yasmina Reza|Roman Polanski|Ronald Harwood|Thomas Hardy|John Brownjohn|Gérard Brach|Robert Towne|Robert Harris|Ariel Dorfman|William Shakespeare|Ira Levin|David Lean|Pascal Bruckner|Charles Dickens|Rafael Yglesias
+Christien Anholt|Guinevere Turner|Tom Bell
+Lillian Hellman|Upton Sinclair|Herman J. Mankiewicz|Harry Chandlee|Paul Gallico|Irene Castle|Borden Chase|Gladys Lehman|Jo Swerling|Josann McGibbon|Tom Skeyhill|Richard Sherman|Abem Finkel|John Wexley|Dorothy Yost|John Huston|James Ellroy|Sara Parriott|Alan Rudolph|Dan Lewandowski|Oscar Hammerstein II|Laura E. Richard|Stuart N. Lake|Ernest Hemingway|Charles Schnee|Howard Koch|Joan Tewkesbury|Burt Kennedy|Niven Busch|James B. Harris|Lem Dobbs|Bertolt Brecht|Sam Hellman|William Bowers|James H. Street|Francis Gwaltney|Blake Edwards|Fritz Lang|Truman Capote|Mel Brooks|Vereen Bell|Harry Tugend|Cid Ricketts Sumner|Kenneth Roberts
+Sally Hawkins|Marie Dressler|Drew Barrymore|Kate Beckinsale|Julie Walters|Ken Howard|Alan Cumming|Kate Winslet|Jessica Lange|Amanda Root|Jeanne Tripplehorn|James McAvoy|Ciarán Hinds|Anne Hathaway|James Cromwell|Anne Baxter|Gwyneth Paltrow|Mark Strong
+Romance|Thriller|Drama|Fantasy|Adventure|Action|Comedy|War|Biography
+German|French|Italian
+Drama
+1975|2012
+2008|1972|2004|2005
+Mel Welles|Charles B. Griffith|Roger Corman|Jim Wynorski
+1998|2002|2000|2001|2006|2004|2009|2010|2013
+German
+Bill Kerby|Neal Jimenez|Roger L. Simon|Ira Sachs|Paul Glickler|Milton Moses Ginsberg|Jimmy Huston|Alan Alda|Iris Rainer|Ira Levin|Paul Simon|Olive Higgins Prouty|Marshall Brickman|Robert Getchell|Don Carpenter|Paul Rudnick|Sylvie Verheyde|Lindy Laub|Dale Launer|Leslie Dixon|Bette Midler|Robin Cook|Paul Mazursky|Michael Korda|William Goldman|Lowell Cunningham|Mary Agnes Donoghue|Cornel Wilde|Olivia Goldsmith|Wayne Kramer|Don Coscarelli|Michael Crichton|Peter Bowman|Bo Goldman|James Glickenhaus|Gary DeVore|Walter Tevis
+Japanese
+Joshua Logan|Erick Zonca|James Ivory|Elliot Silverstein|Lewis John Carlino|Ted Kotcheff|George Cukor|Otto Preminger|William A. Wellman|Michael Anderson|Michael Ritchie|William Tannen|Michael Cimino|Robby Henson|Gene Saks|Louis Malle|Alan Rudolph|Fred Zinnemann|Federico Fellini|Peter Tewksbury|Mark Rydell|Paul Mazursky|Sydney Pollack|Luis Puenzo|Charles Martin Smith|Peter Skillman Odiorne|Alan J. Pakula|Arthur Penn|Robert Ellis Miller|Sam Peckinpah|Stéphane Robelin|Dean Parisot|Hal Ashby|Sidney Lumet|James Bridges|Robert Luketic|Norman Jewison|Garry Marshall|Roger Vadim|Edward Dmytryk
+Burt Kennedy|Michael Curtiz|Henry Koster|Gregory La Cava|Henry King
+French|English
+Romance|Drama|Music|Western|Comedy|Documentary|Musical
+Drama|Comedy|Adventure|War
+1998|1961|2003|2006|2007|2004|1976|2009
+Paul Schrader|Michael Pressman|Eddie Murphy|Richard Lester|Arthur Hiller|Francis Veber|Sidney J. Furie|Richard Pryor|Walter Hill|Michael Apted|Sidney Poitier|Richard Donner
+Russian|Japanese|French|Italian
+Cameron Crowe|James B. Clark|Stuart Gillard|Joe Roth|James Mangold|Lew Landers|Liev Schreiber|Ramón Menéndez|Chadd Harbold|Dibakar Banerjee|Richard Donner|Menno Meyjes|Bill Fishman|Rob Reiner|George Armitage|Mikael Håfström|Kasper Barfoed|David Grovic|Herbert Ross|Joshua Seftel|Joseph Ruben|Savage Steve Holland|Mike Newell|Gary David Goldberg|Jon Avnet|Stephen Frears|Scott Walker|Spike Jonze|Mimi Leder|Rune Denstad Langlo|Peter Chelsom|Steve Miner|Álex de la Iglesia|Don Bluth|Steve Pink|Gary Fleder|Nacho Vigalondo|Diablo Cody|Michel Gondry|Mary Agnes Donoghue|Morgan O'Neill|Alan Parker|Clint Eastwood|David Cronenberg|Gary Goldman|Ulli Lommel|James McTeigue|Roland Emmerich|Anatole Litvak|Edward Burns|Harold Ramis|Roger Corman|Harold Becker|Lee Daniels|Peter McCarthy|Stephen Sommers|Bruce Beresford
+1992|1982|1942|1940|1947|1955|1957|1952|1939
+William P. McGivern|James Ronald|Nunnally Johnson|Ben Markson|Lewis E. Lawes|Billy Wilder|Ernst Lubitsch|Earl Baldwin|I.A.L. Diamond|Eric Ambler|Ben Hecht|Fredric Brown|Paul Fix|Preston Sturges|Jerome Odlum|Jonathan Finn|Michael Hogan|Steve Fisher|Rowland Brown|Frank Gruber|Charles Lederer|John Wexley|Sam Spewack|Gordon Ray Young|Jay Dratler|Warren Duff|Bartlett Cormack|Joseph Schrank|Robert Hardy Andrews|Charles MacArthur|Virginia Van Upp|Ronald Bass|Joseph L. Mankiewicz|W.R. Burnett|Leos Carax|Richard H. Landau|Norman Krasna
+Robert Stack|Simone Simon|Robert Mitchum|Jane Randolph|Brian Keith|Aldo Ray|Virginia Mayo|Steve Reeves|Merle Oberon|Tom Conway|Boris Karloff|Vincent Price|Kirk Douglas|Peter Lorre|Anne Bancroft|Burt Lancaster|Jane Greer|Paul Lukas|Robert Ryan|Nastassja Kinski|Kent Smith
+1982|1988|2000|2001|2010|2013
+Horror|Crime|Drama|Fantasy|Comedy|Thriller
+Norman Katkov|Joshua Logan|Jack Finney|Steve Shagan|Neil Simon|Larry Gelbart|Harold Jacob Smith|Thomas Heggen|Nedrick Young|I.A.L. Diamond|Robert Nelson Jacobs|Arthur A. Ross|Jerome Lawrence|Mark Steven Johnson|William Wharton|Ben Hecht|Harvey Miller|Alexandre Breffort|Frank Harris|Jerome Chodorov|Mitch Albom|Everett Greenbaum|Gilles Mimouni|Mike Gray|Gary David Goldberg|David Swift|Thomas Rickman|Charles Lederer|Jules Furthman|Bill C. Davis|Francis Veber|Kenneth Cook|Ruth McKenney|Max Catto|Leigh Brackett|Jed Harris|Raymond Carver|Charles MacArthur|Robert Altman|Billy Wilder|Garson Kanin|James Bridges|David Mamet|Blake Edwards|Max Wilk|Arthur Carter|Frank Barhydt|Richard Quine|James Fritzell|Bartlett Cormack|Murray Schisgal|George Axelrod|Evan Jones
+Drama|Fantasy|Romance|Comedy|Adventure
+Lambert Wilson|Gaspard Ulliel|Niels Arestrup|Mélanie Thierry
+Christopher Reeve|Chris O'Donnell|Buster Keaton|Ned Beatty|Julie Christie|Margaret Rutherford|Richard Pryor|Ron Moody|Paul McCartney|George Harrison|Phil Silvers|Lana Turner|Don Ameche|Zero Mostel|Oliver Platt|Matthew Macfadyen|Arthur Hill|Florinda Bolkan|David Kossoff|The Ritz Brothers|George C. Scott|Richard Chamberlain|Audrey Hepburn|Milla Jovovich|Robert Shaw|Oliver Reed|The Beatles|John Lennon|Malcolm McDowell|Charlie Sheen|Roy Kinnear|Gene Kelly|Alan Bates|Bernard Cribbins|Sean Connery|Brooke Adams|Kiefer Sutherland|Michael Crawford|Lee Montague|Gene Hackman|Richard Harris
+Kate Hudson|Gael García Bernal
+Comedy
+Cornell Woolrich|Barré Lyndon|Irwin Shaw|Richard Carroll|C.S. Forester|Kenneth Fearing|William Durkee|Louis L'Amour|Frank Butler|Jonathan Latimer
+Jason Eisener|Eduardo Sánchez|Gregg Hale|Adam Wingard|Timo Tjahjanto|Gareth Evans|Simon Barrett
+Joe Ranft|Richard Martin Stern|William Faulkner|William R. Lipman|Bill Walsh|Stirling Silliphant|James Poe|Howard Lindsay|Irving Ravetch|Terrence Malick|Ernest Lehman|Rod Serling|Richard Brooks|Don DaGradi|Huey Perry|Richard Morris|Tennessee Williams|Melville Shavelson|Peter Milne|Melissa Rosenberg|Elmore Leonard|Ethan Coen|John Lasseter|Arthur Kopit|Walter Tevis|Robert Benton|Donn Pearce|James A. Michener|Russel Crouse|Richard Russo|Thomas N. Scortia|Ross Macdonald|Andrew Adamson|Robert Stone|Ken Kesey|Nancy Dowd|Max Shulman|Leo McCarey|David S. Ward|Sidney Carroll|John Milius|Irving Wallace|Blaze Starr|Nicholas Sparks|John O'Hara|E. Max Frye|William Goldman|Paddy Chayefsky|Harold Flender|Ron Shelton|Gladys Lehman|Larry McMurtry|Leslie Stevens|Sam Hellman|Walter Bernstein|John Gay|Robert Rossen|Robert Altman|Barry Reed|Richard Price|Bonnie Hunt|Israel Zangwill|Meg Cabot|David Mamet|Blake Edwards|Beth Henley|Damon Runyon|Sam Raimi|Conrad Vernon|Gore Vidal|Frank Pierson|Frank M. Robinson|Thomas B. Costain|François Truffaut|Stephenie Meyer|William Bradford Huie|William Peter Blatty
+Tony Giglio|Shane Kuhn|Brendan Cowles
+Leopoldo Trieste|Giulietta Masina|Mario Pisu|Franco Interlenghi|Alberto Sordi|Sandra Milo|Peppino De Filippo|Anthony Quinn|Valentina Cortese|Broderick Crawford|Brigitte Bardot|Richard Basehart|Aldo Fabrizi|Franco Fabrizi|Gianfranco Bellini|Shirley MacLaine|Ricardo Montalban|Jane Fonda|John McMartin|Terence Stamp|Carla Del Poggio|Brunella Bovo|Alain Delon|Marcello Mastroianni
+Elia Kazan|Alexander Hall|Silvio Narizzano|Stuart Rosenberg|Elaine May|Jack Arnold|Henry Levin|Joseph L. Mankiewicz|Donald Petrie|Richard Quine|George Cukor|Richard Brooks|Herbert Ross|Gene Saks|Lewis Milestone|Stuart Paton|John Guillermin|Diane Keaton|Michael Powell|Larry Peerce|Michael Ritchie|Daniel Petrie|Edward Dmytryk|Norman Taurog|Vincente Minnelli|Rusty Lemorande|Anthony Mann|Don Siegel|Victor Hanbury|Arthur Hiller|Herb Gardner|Martin Ritt|William A. Wellman|Richard Thorpe|Nick Castle|Stanley Kubrick|Joseph Sargent|Leslie Arliss|Vincent Sherman|Jack Lemmon|Alfred Hitchcock|Adrian Lyne|Roy Boulting|Terence Young|Ronald Neame|Michael Curtiz|Max Ophüls|David Miller|Mervyn LeRoy|Lance Comfort|Charles Matthau|Douglas Camfield|Bernard Knowles|Mutz Greenbaum|Walter Bernstein|Gene Kelly|Robert Rossen|Sidney Lumet|Billy Wilder|Ken Hughes|Howard Deutch|Anatole Litvak|Fred Schepisi|Albert Lewin|Richard Fleischer|Martha Coolidge|Aram Avakian|Stanley Donen|Claude Chabrol|Franklin J. Schaffner|Robert M. Young|Carol Reed
+Ann Reinking|Carol Burnett|Patricia Clarkson|Jenna Elfman|Albert Finney|Quvenzhané Wallis|Jamie Foxx|Tim Curry|Mila Kunis|Justin Timberlake
+Gregory Peck|Gary Oldman|Gabriel Byrne|Robert Foxworth|Lee Remick|Corbin Bernsen|Billie Whitelaw|Armand Assante|David Warner|Sally Field|Liev Schreiber|Tom Hanks|Kerri Green|Charlie Sheen|Skeet Ulrich|Judith Ivey|Talia Shire|Shelley Long|Corey Haim
+1999|1982
+1996|1999|2003|2009|2011|2013|2012
+Carl Gottlieb|Michael Pressman|Michael Ritchie|Joe Alves|Baltasar Kormákur|Jeannot Szwarc|Michael Bay|Carl Reiner|Peter Yates
+2002|2006|2013|2004|2010
+Horror|Crime|Drama|Fantasy|Adventure|Action|Comedy|War|Thriller
+1967|1968|1969|1942|1961|1975|1974|1972|1971|1963|1964|1988|1966
+Mystery|Horror|Crime|Drama|Action|Comedy|War|Thriller
+1979
+Drama
+Danish
+Spanish
+Comedy|Music
+Mildred Gordon|Harry Lee|Selwyn Jepson|Francis Ford Coppola|Al Hirshberg|Edgar Allan Poe|Liam O'Brien|Ladislas Farago|Enid Bagnold|Allen Vincent|Darryl Ponicsan|Billy Wilder|Budd Schulberg|Edna L. Lee|Mike Figgis|Charles Shyer|Sloan Wilson|Tennessee Williams|Kingsley Amis|Kate Douglas Wiggin|George Tabori|Marjorie Kinnan Rawlings|Paul Osborn|Wells Root|George Melly|Jimmy Piersall|Jerome Sable|Derek Jarman|David Swift|Peg Fenwick|Robert Blees|David S. Ward|Oscar Saul|Malcolm Johnson|Lowell S. Hawley|Roy Boulting|Paul Anthelme|Alma Reville|Jules Verne|Rian James|Edmund H. North|Delmer Daves|Arthur Hailey|Guy Trosper|Nancy Meyers|Irma von Cube|Albert Beich|Stanley Mann|Robert Riskin|Whitfield Cook|Mary Stewart|Tom Topor|Oscar Millard|Charles R. Jackson|Lloyd C. Douglas|Tito Davison|Erich Kästner|Alvin Sargent
+1993|1997|1999|1984|1988|2002|1977|1971|2004|2014|2008|2010
+Al Pacino|Dyan Cannon|Barbara Harris|Jason Robards|Rip Torn|Alan Alda|Amy Irving|Meryl Streep|Henry Thomas|Jon Cryer|Samuel West|Kitty Winn|Christien Anholt|Demi Moore|Willie Nelson
+1986|1987|1984|1985|1982|1969|1988|2014|2011|2013|2012|1948|1936|1990|1993|1994|1979|1996|1999|1976|2002|2000
+Thriller
+Carl Ellsworth|Vincent Ward|Vicente Aranda|Harold Jacob Smith|John Krasinski|Adolph Green|John Michael Hayes|John Patrick|George Sluizer|Walter Salles|Jeffrey Konvitz|John Milius|Percy Heath|Maurice Zimm|Richard Sherman|Chris Cleave|Harry Segall|Gordon Weaver|Louis Bromfield|Joseph Breen|Gerald Petievich|Lem Dobbs|Marc Reid Rubel|Boaz Yakin|David S. Ward|Fannie Hurst|Peter Chelsom|Charles Schnee|E.T.A. Hoffmann|Rian James|Famke Janssen|Samuel Hoffenstein|David E. Kelley|Edwin Justus Mayer|Henry S. Villard|Maurice Renard|Kevin Reynolds|Sid Silvers|Bruce A. Evans|Jeremy Passmore|James M. Cain|Robert Louis Stevenson|Lamar Trotti|Anne Amanda Opotowsky|Nedrick Young|David McCumber|Roman Coppola|Mark Steven Johnson|Emilio Estevez|Ben Roberts|Ernest Thompson|Pat Proft|David Saperstein|Charles Brackett|W. Somerset Maugham|Paula Milne|Ralph Spence|Matt Damon|Hal Kanter|Niven Busch|Jeff Miller|Fred F. Finklehoffe|David Seltzer|Howard Emmett Rogers|Gene Kelly|Leo Tolstoy|Scott Spiegel|Julien Magnat|William Hurlbut|Michael Winner|Tim Krabbé|David Twohy|David Loughery|Bill Condon|Peter Flannery|John Lee Mahin|Samuel James Larsen|Merle Miller|Viktor Léon|Ivan Goff|David S. Goyer|Giovanni Arpino|John Fusco|Sinclair Lewis|Dashiell Hammett|Brad McGann|Jay McInerney|Hans Habe|Betty Comden|Dick Wolf|Aimee Lagos|Henry De Vere Stacpoole|Leslie Stevens|Daniela Thomas|Darrell Ware|Steve Barancik|Nicholas Klein|John Twist|Ruggero Maccari|Eric Blakeney|Richard Christian Danus|Matthew Bright|Jim Abrahams|Elmore Leonard|Roy Huggins|Kathryn Scola|Paul Brickman|Margaret Rosenthal|Bo Goldman|Oliver Stone|Grace Metalious|James Nagel|Tito Davison|Gary Lennon|Jerome Robbins|Joe Eszterhas|John Grisham|Steve Cohen|Robert Rodat|Sharon Maguire|Greg Pritikin|Billy Wilder|Herman Wouk|Bernard Rose|Jerome Lawrence|Dave Eggers|Kurt Wimmer|Philip Klein|Olatunde Osunsanmi|Raynold Gideon|Stanley Tucci|Sonya Levien|Ronald Millar|Alex Proyas|Barbara Benedek|John Irving|Warren Beatty|Maurice Gee|Shel Silverstein|Michael Hoffman|George Froeschel|Andrew Geer|Samson Raphaelson|Franz Schulz|Tom Stoppard|Richard Linklater|Alexandre Aja|George Bradshaw|Vera Caspary|Valentine Davies|Leo Stein|Alan Jay Lerner|James Warner Bellah|Luc Besson|David Mamet|Karl Tunberg|Clara Beranger|Ron Cutler|Bono|Dino Risi
+Finnish
+2000|2006|2012
+1935|1946|1934|1961|1962|1986|1948|1949|1943|1941|1960|1947|1944|1945|2012|1955|1932|1957|1956|1951|1936|1953|1952|1939|1938|1958|1995|1996|1999|1998|1975|1970
+Drama|Comedy|Thriller
+Drama|Thriller
+Ben Younger
+2014
+2003
+Michael Pressman|Gavin Millar|Lee David Zlotoff|Taylor Hackford|Jon Turteltaub|Randal Kleiser
+1968|1980|1981|1964|1960|1963|2011|2010|2012|1957|1935|1991|1990|1993|1992|1996|1998|1975|1973|1972|1971|1970|2002|2006|2007|2004|2005|2008|2009
+Japanese|French
+Mystery|Horror|Crime|Drama|Fantasy|Adventure|Comedy|Musical|Thriller
+Mark Rolston|Lee Tergesen|Terence Stamp|Christopher McDonald|Josh Stewart|Betsy Russell|Emma Fitzpatrick|Scott Patterson|Tobin Bell|Costas Mandylor|Samantha Eggar
+Jim Wynorski
+English
+Drama|Comedy
+Malia Scotch Marmo|Charles Lederer|Ben Affleck|Maureen Mylander|Peter Kassovitz|Arie Posin|Omar Naim|Neil Simon|Bobcat Goldthwait|Ron Shelton|Robert Silverberg|Truman Capote|Chris Van Allsburg|Jack Ritchie|I.A.L. Diamond|Ernest Lehman|Elaine May|Jerome Lawrence|Mark Steven Johnson|Robert Nelson Jacobs|Patch Adams|Ben Hecht|Peter De Vries|Matt Damon|Marc Behm|Gladys Lehman|Bartlett Cormack|Damon Runyon|John Musker|Peter Stone|Barry Levinson|William R. Lipman|David Duchovny|Geoff Rodkey|Budd Schulberg|Sam Hellman|John Paxton|Robert E. Lee|Stirling Silliphant|John Irving|Dirk Shafer|Bryan Forbes|Matthew McDuffie|Nick Castle|Charles MacArthur|Paul Mazursky|Nelson Gidding|Richard Matheson|Francis Veber|Julius J. Epstein|Isaac Asimov|Howard Fast|Herb Gardner|Mitch Markowitz|Assi Dayan|Crash Leyland|Bill Lancaster|Dalton Trumbo|Steve Tesich|Brian Garfield|Abe Burrows|Walter Bernstein|Jean Poiret|Ron Clements|Hank Ketcham|Harold Robbins|Oliver Sacks|Billy Wilder|Saul Bellow|Edward Abbey|Pierre Barillet|Harold Ramis|James V. Hart|Weldon Hill|John Hughes|Nicholas E. Baehr|Mark Romanek|John Godey|Bill Forsyth|Anne Fine|Jurek Becker|Tom Schulman
+Victor Hugo|Jeffrey D. Brown|Russell Hunter|Peter Barnes
+Mystery|Horror|Crime|Drama|Adventure|Comedy|War
+Comedy|Documentary
+German|English
+Lamberto Bava|Dario Argento|Sergio Leone|George A. Romero|Don Taylor|Marc Evans|Roy Ward Baker
+Drama
+Drama|Romance|Comedy
+1990|1984|1985|1995|1994|1979|1978|1974|1973|1972|1989|1981|1980|2006
+Nils Gaup
+Ketti Frings|James Ronald|Nunnally Johnson|Henry Edward Helseth|Aleksandr Gordon|Ernest Hemingway|W. Somerset Maugham|Andrei Tarkovsky|Anthony Veiller|Mel Dinelli|Ethel Lina White|Vladimir Pozner
+Bill Paxton|Steven Lisberger|Dan Gilroy|Todd Komarnicki|Jan de Bont|Walter Hill|Carl Franklin|Kevin Jarre|Jonathan Mostow|Sam Raimi|George P. Cosmatos|Robert Harling|Ron Howard|Ron Underwood|Ernest B. Schoedsack|Joel Schumacher|Anthony Hopkins|Stephen Berra

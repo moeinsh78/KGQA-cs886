@@ -14,7 +14,7 @@ def get_description(head, relation, tail):
     elif relation == "has_imdb_votes":
         return "Movie \'{}\' is voted {} in imdb.".format(head, tail)
     elif relation == "has_tags":
-        return "Movie \'{}\' has the tag \'{}\'.".format(head, tail)
+        return "Movie \'{}\' is described with \'{}\' tag.".format(head, tail)
     elif relation == "in_language":
         return "Movie \'{}\' is in {} language.".format(head, tail)
     elif relation == "release_year":
