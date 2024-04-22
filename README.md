@@ -7,7 +7,7 @@ This repository contains the implementation of a Question-Answering (QA) system 
 The Knowledge Graph-Based QA system aims to answer questions by referring to a structured knowledge graph containing various entities and relations. The knowledge graph and the tests used present in the [MetaQA dataset](https://github.com/yuyuz/MetaQA) were used in this project. This system explores the use of large language models (LLMs) in conjunction with graph-based data to enhance the accuracy and relevance of the answers provided. The idea is to improve the baseline retrieval-augmented generation (RAG) technique by populating the LLM's context window with the most relevant information. 
 
 
-![assets/KGQA-arch.ong]
+!(assets/KGQA-arch.ong)
 
 ## Features
 
