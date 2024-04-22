@@ -1,10 +1,10 @@
 # Knowledge Graph-Based Question Answering System
 
-This repository contains the implementation of a Question Answering (QA) system that utilizes a knowledge graph constructed using the NetworkX framework. The system processes queries through a language model, identifying relevant information within the graph to generate responses.
+This repository contains the implementation of a Question Answering (QA) system that utilizes a knowledge graph to store the information. The system processes queries through a large language model, asking it to answer the query based on the information retrieved from the knowledge grpah. 
 
 ## Project Overview
 
-The Knowledge Graph-Based QA System aims to effectively answer questions by referencing a structured knowledge graph containing various entities and relations. This system explores the use of large language models (LLMs) in conjunction with graph-based data to enhance the accuracy and relevance of answers provided.
+The Knowledge Graph-Based QA aystem aims to answer questions by refering to a structured knowledge graph containing various entities and relations. The knowledge graph and the tests used present in the (MetaQA dataset)[https://github.com/yuyuz/MetaQA] were used in this project. This system explores the use of large language models (LLMs) in conjunction with graph-based data to enhance the accuracy and relevance of answers provided. The idea is to improve baseline retrieval-augmented generation (RAG) technique by populating LLM's context window with the most relevant information. 
 
 ## Features
 
