@@ -16,8 +16,9 @@ We prompted the system with samples of questions which answering them requires e
 
 However, قunning this project involves sending requests to a gpt-3.5-turbo client to and requires valid OpenAI API key. Additionally, LLM responses are not always consistent, and diverge from providing the output alligned to the expected forms, which makes it difficult to parse and evaluate its performance. Hence, the above-mentioned files are provided to demonstrate model's performance, with the output file have been fixed in terms of formatting. 
 
-Clone the repository and install the required packages:
+However, despite these challenges, the following steps can be taken to see how the performance of model on a sample of 2000 one-hop questions is evaluated:
 
 ```bash
 git clone https://github.com/moeinsh78/KGQA-cs886.git
 cd KGQA-cs886
+python3 testQA.py
