@@ -1,6 +1,6 @@
 # Knowledge Graph-Based Question Answering System
 
-This repository contains the implementation of a Question-Answering (QA) system that utilizes a knowledge graph to store information. The system processes queries through a large language model, asking it to answer the query based on the information retrieved from the knowledge graph. 
+This repository contains the implementation of a Question-Answering (QA) system that utilizes a knowledge graph to store information. The system processes queries through a large language model, asking it to answer the query based on the information retrieved from the knowledge graph. [Project report paper](https://github.com/moeinsh78/KGQA-cs886/blob/master/MoeinShirdel-CS886-ProjectReport.pdf)
 
 ## Project Overview
 
