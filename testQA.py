@@ -1,5 +1,5 @@
 from graphConstructor import build_knowledge_graph, get_bfs_edge_list
-from findGoldenEntity import get_most_similar_entity_ids
+# from findGoldenEntity import get_most_similar_entity_ids
 from promptLLM import ask_LLM
 import ast
 from tqdm import tqdm
@@ -104,7 +104,7 @@ def evaluate_performance(output_file_path, expected_answers_path):
     avg_recall = sum(recalls) / len(recalls)
     avg_f1 = 2 * avg_precision * avg_recall / (avg_recall + avg_precision)
 
-    print("Overall:\nPrecision: {}\tRecall {}\tF1: {}".format(ov_precision, ov_recall, overall_f1))
+    # print("Overall:\nPrecision: {}\tRecall {}\tF1: {}".format(ov_precision, ov_recall, overall_f1))
     print("Question-wise average:\nPrecision: {}\tRecall {}\tF1: {}".format(avg_precision, avg_recall, avg_f1))
     print("Context Window Errors: ", cw_error_count)
     
@@ -210,4 +210,4 @@ def check_named_entity():
 
 # run_sampled_tests(3, 400)
 
-evaluate_performance("results/3-hop-sample-output.txt", "results/3-hop-expected.txt")
+evaluate_performance("results/1-hop-sample-output.txt", "results/1-hop-expected.txt")

@@ -108,4 +108,4 @@ def visualize_graph(source, depth):
 # print(edge_list)
 
 # load_kg_edges_df("./dataset/MetaQA/MetaQA-3/kb.txt")
-visualize_graph(source="Jean Rochefort", depth=2)
+# visualize_graph(source="Jean Rochefort", depth=2)
